@@ -1,0 +1,16 @@
+{
+  "key": "ADAMANTINE",
+  "name": "Adamantine",
+  "requiredCharacterKeys": ["DARK_LORD"],
+  "type": "SET",
+  "version": "0.99b",
+  "img": "public/img/sets/adamantine.webp",
+  "items": [
+    "ADAMANTINE_MASK",
+    "ADAMANTINE_ARMOR",
+    "ADAMANTINE_PANTS",
+    "ADAMANTINE_GLOVES",
+    "ADAMANTINE_BOOTS"
+  ],
+  "order": 101
+}
