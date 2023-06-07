@@ -1,0 +1,19 @@
+{
+  "allOf": [{ "$ref": "./item.schema.json" }],
+  "type": "object",
+  "title": "Set",
+  "description": "Full armor of the character.",
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": ["SET"]
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": ["type", "items"]
+}

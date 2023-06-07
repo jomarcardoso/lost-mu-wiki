@@ -1,0 +1,47 @@
+{
+  "allOf": [{ "$ref": "./item.schema.json" }],
+  "type": "object",
+  "title": "Item",
+  "description": "Part of the armor of the character.",
+  "properties": {
+    "type": {
+      "type": "string",
+      "enum": ["HELM", "ARMOR", "PANTS", "GLOVES", "BOOTS"]
+    },
+    "normalLevels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "defense": {
+            "type": "integer"
+          },
+          "requiredStrength": {
+            "type": "integer"
+          },
+          "requiredAgility": {
+            "type": "integer"
+          }
+        }
+      }
+    },
+    "excellentLevels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "defense": {
+            "type": "integer"
+          },
+          "requiredStrength": {
+            "type": "integer"
+          },
+          "requiredAgility": {
+            "type": "integer"
+          }
+        }
+      }
+    }
+  },
+  "required": ["normalLevels", "excellentLevels"]
+}

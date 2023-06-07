@@ -1,0 +1,16 @@
+{
+  "properties": {
+    "key": {
+      "type": "string",
+      "description": "unique key to be used on the URL"
+    },
+    "name": {
+      "type": "string"
+    },
+    "img": {
+      "type": "string",
+      "description": "image URL"
+    }
+  },
+  "required": ["key", "name", "img"]
+}

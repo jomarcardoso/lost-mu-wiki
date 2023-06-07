@@ -1,0 +1,12 @@
+{
+  "allOf": [{ "$ref": "./armor.schema.json" }],
+  "type": "object",
+  "title": "Gloves",
+  "description": "Gloves of the armor of the character.",
+  "properties": {
+    "attackSpeed": {
+      "type": "integer"
+    }
+  },
+  "required": ["attackSpeed"]
+}

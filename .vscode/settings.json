@@ -1,3 +1,33 @@
 {
-  "json.validate.enable": true
+  "json.validate.enable": true,
+
+  // ###########################################################################
+  // ###################   FORMATADOR DEFAULT - BASE   #########################
+  // ###########################################################################
+
+  // formata ao salvar
+  "editor.formatOnSave": true,
+
+  // adiciona linha guia na direita
+  "editor.rulers": [80],
+  "editor.detectIndentation": false,
+
+  // tabulação de 2 espaços
+  "editor.tabSize": 2,
+
+  // remove espaços que não devem ser commitados
+  "files.trimTrailingWhitespace": true,
+
+  // insere uma linha no final do arquivo
+  "files.insertFinalNewline": true,
+
+  // ###########################################################################
+  // ##################   FORMATADOR DEFAULT - MARKDOWN   ######################
+  // ###########################################################################
+
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "all",
+    "editor.acceptSuggestionOnEnter": "off"
+  }
 }
