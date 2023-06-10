@@ -1,0 +1,14 @@
+{
+  "key": "DEATH_SPIRIT",
+  "name": "Death Spirit",
+  "description": "It can freely use forbidden magic, has powerful magic power, and can also absorb the enemy's magic value and AG.\n\nSkills:\n\n- curse: Absorb Mana Absorb AG",
+  "img": "public/img/mobs/death-trineo.png",
+  "drops": [],
+  "level": 133,
+  "hp": 500000,
+  "minDamage": 650,
+  "maxDamage": 750,
+  "attackRate": 1500,
+  "defense": 550,
+  "defenseRate": 370
+}

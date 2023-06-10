@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "DEATH_TRINEO",
+  "name": "Death Trineo (Ballista | Ballista Launcher)",
+  "description": "Attacks long-range siege weapons. Directly attack from a distance beyond the line of sight, focusing on the place where the bow and arrow fall",
+  "img": "public/img/mobs/death-trineo.png",
+  "drops": [],
+  "level": 133,
+  "hp": 500000,
+  "minDamage": 650,
+  "maxDamage": 750,
+  "attackRate": 1500,
+  "defense": 550,
+  "defenseRate": 370
+}

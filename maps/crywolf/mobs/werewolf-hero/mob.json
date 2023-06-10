@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "WEREWOLF_HERO",
+  "name": "Werewolf (Hero)",
+  "description": "",
+  "img": "public/img/mobs/werewolf-hero.png",
+  "drops": [],
+  "level": 127,
+  "hp": 123000,
+  "minDamage": 964,
+  "maxDamage": 1015,
+  "attackRate": 980,
+  "defense": 800,
+  "defenseRate": 397
+}

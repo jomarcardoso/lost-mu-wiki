@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "SCOUT_HERO",
+  "name": "Scout (Hero)",
+  "description": "",
+  "img": "public/img/mobs/sout-hero.png",
+  "drops": [],
+  "level": 123,
+  "hp": 120000,
+  "minDamage": 890,
+  "maxDamage": 910,
+  "attackRate": 1027,
+  "defense": 740,
+  "defenseRate": 370
+}

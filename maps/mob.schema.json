@@ -1,0 +1,49 @@
+{
+  "type": "object",
+  "title": "Mob",
+  "description": "Monster of the Lost Continent.",
+  "properties": {
+    "key": {
+      "type": "string",
+      "description": "unique key to be used on the URL"
+    },
+    "name": {
+      "type": "string"
+    },
+    "img": {
+      "type": "string",
+      "description": "image URL"
+    },
+    "description": {
+      "type": "string"
+    },
+    "drops": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "level": {
+      "type": "integer"
+    },
+    "hp": {
+      "type": "integer"
+    },
+    "minDamage": {
+      "type": "integer"
+    },
+    "maxDamage": {
+      "type": "integer"
+    },
+    "attackRate": {
+      "type": "integer"
+    },
+    "defense": {
+      "type": "integer"
+    },
+    "defenseRate": {
+      "type": "integer"
+    }
+  },
+  "required": ["key", "name", "img"]
+}

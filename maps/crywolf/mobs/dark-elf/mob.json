@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "DARK_ELF",
+  "name": "Dark Elf",
+  "description": "The core commander in the battle of Wolf Soul Fortress is the captain of the troops. They do not participate in direct attacks, but mainly play the role of summoning troops and healing teammates.\n\nSkills:\n\n- Sword Skill (fencing): bondage\n\nSummoning Skill: call team\n\nHealing Skill: treatment team\n\nOnly spawns during the Crywolf Invasion event.",
+  "img": "public/img/mobs/dark-elf.png",
+  "drops": [],
+  "level": 135,
+  "hp": 1000000,
+  "minDamage": 800,
+  "maxDamage": 800,
+  "attackRate": 1500,
+  "defense": 650,
+  "defenseRate": 370
+}

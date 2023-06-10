@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "LANCE_SCOUT",
+  "name": "Lance Scout",
+  "description": "Quinton's spies hunting around Wolfsoul Hold. They collect a lot of secret information and are planning a rebellion and civil war. Quinton's spies hunting around Wolfsoul Hold. They collect a lot of secret information and are planning a rebellion and civil war. Move faster and use spears. Scouts have various attack modes according to their characteristics. Also, Spear Scouts are mid-range.",
+  "img": "public/img/mobs/lance-scout.png",
+  "drops": [],
+  "level": 97,
+  "hp": 45000,
+  "minDamage": 530,
+  "maxDamage": 560,
+  "attackRate": 670,
+  "defense": 420,
+  "defenseRate": 250
+}

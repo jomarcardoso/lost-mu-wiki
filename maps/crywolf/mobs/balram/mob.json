@@ -1,0 +1,14 @@
+{
+  "key": "BALRAM",
+  "name": "Dark Defender (Balram)",
+  "description": "The Dark Defender and the Dark Sorcerer serve as a support attack in the rear of the troops. They are good at attacking and running tactics based on their fast speed, so they wear minimal armor. Using the penetrating technique of a bow and arrow as a stunt, this arrow has the power of the dark defender, which can nullify the power of the archer and forcibly cancel the attack/defense enhancement skills.\nSkills\n\n- Cursed Arrow: Dispels the power of God of War, Guardian Light",
+  "img": "public/img/mobs/balram.png",
+  "drops": [],
+  "level": 132,
+  "hp": 140000,
+  "minDamage": 1075,
+  "maxDamage": 1140,
+  "attackRate": 1100,
+  "defense": 885,
+  "defenseRate": 440
+}

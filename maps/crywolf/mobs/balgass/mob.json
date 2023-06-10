@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "BALGASS",
+  "name": "Balgass",
+  "description": "The supreme commander of the legion attacking the Wolf Soul Fortress will only appear at the end of the fortress battle.\n\nSkills\n\nCross cut: Attack range Shock Retreat removes the power of God of War, Light of Guardian\n\nHit the ground (earsh strike): Attack Range, Push, Shackle.\n\nOnly spawns during the Crywolf Invasion event.",
+  "img": "public/img/mobs/dark-elf.png",
+  "drops": [],
+  "level": 135,
+  "hp": 400000,
+  "minDamage": 1000,
+  "maxDamage": 1500,
+  "attackRate": 2000,
+  "defense": 700,
+  "defenseRate": 370
+}

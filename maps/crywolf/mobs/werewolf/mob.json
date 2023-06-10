@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "WEREWOLF",
+  "name": "Dark Blood Werewolf (Werewolf)",
+  "description": "A dark emissary in the Wolfsoul Hold area. Resembling giant werewolves, they like to come and go in packs, attacking explorers who come into their territory, and living off their flesh and blood. In order to encourage their comrades-in-arms during the battle, they would make earth-shattering roars from time to time, which is also the origin of the place name of Wolf Soul Fortress.",
+  "img": "public/img/mobs/werewolf.png",
+  "drops": [],
+  "level": 118,
+  "hp": 110000,
+  "minDamage": 830,
+  "maxDamage": 850,
+  "attackRate": 950,
+  "defense": 680,
+  "defenseRate": 335
+}

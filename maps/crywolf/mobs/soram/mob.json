@@ -1,0 +1,15 @@
+{
+  "$schema": "../../../mob.schema.json",
+  "key": "SORAM",
+  "name": "Dark Sweeper (Soram)",
+  "description": "As a vanguard attacking from the front, with a huge axe, it wipes out the surrounding warriors with powerful destructive power.\n\nSkills:\n\n- Shock",
+  "img": "public/img/mobs/soram.png",
+  "drops": [],
+  "level": 134,
+  "hp": 164000,
+  "minDamage": 1200,
+  "maxDamage": 1300,
+  "attackRate": 1173,
+  "defense": 500,
+  "defenseRate": 982
+}
