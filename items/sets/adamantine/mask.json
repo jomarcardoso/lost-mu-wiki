@@ -1,5 +1,5 @@
 {
-  "$schema": "../armor.schema.json",
+  "$schema": "../../armor.schema.json",
   "key": "ADAMANTINE_MASK",
   "name": "Adamantine Mask",
   "img": "public/img/items/adamantine/adamantine-mask.webp",

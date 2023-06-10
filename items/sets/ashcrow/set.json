@@ -1,0 +1,13 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "ASHCROW",
+  "name": "Ashcrow",
+  "description": "Equipment that is famous for its reputation as the gray storm in the flames of war. Its strength has been widely recognized on the battlefield. It is a solid armor for allies and a terror for enemies. Enemies who have heard of Ridious' reputation for a long time, whenever they see this armor on the battlefield, become demoralized and run away one after another, and Ridious has won hundreds of victories because of this.",
+  "requiredCharacterKeys": ["DARK_KNIGHT"],
+  "type": "SET",
+  "version": "2.0",
+  "img": "public/img/sets/ashcrow.png",
+  "items": ["ASHCROW_HELM", "ASHCROW_ARMOR", "ASHCROW_PANTS", "ASHCROW_GLOVES", "ASHCROW_BOOTS"],
+  "order": 101,
+  "relatedItemKeys": ["ECLIPSE", "IRIS", "VALIANT", "GLORIOUS"]
+}

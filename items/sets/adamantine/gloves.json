@@ -1,5 +1,5 @@
 {
-  "$schema": "../gloves.schema.json",
+  "$schema": "../../gloves.schema.json",
   "key": "ADAMANTINE_GLOVES",
   "name": "Adamantine Gloves",
   "img": "public/img/items/adamantine/adamantine-gloves.webp",

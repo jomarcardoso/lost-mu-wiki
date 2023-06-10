@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "BLACK_DRAGON",
+  "name": "Black Dragon",
+  "requiredCharacterKeys": ["DARK_KNIGHT"],
+  "type": "SET",
+  "version": "0.84",
+  "img": "public/img/sets/large/black-dragon.png",
+  "group": "tarkan_item",
+  "items": [
+    "BLACK_DRAGON_HELM",
+    "BLACK_DRAGON_ARMOR",
+    "BLACK_DRAGON_PANTS",
+    "BLACK_DRAGON_GLOVES",
+    "BLACK_DRAGON_BOOTS"
+  ],
+  "order": 100
+}

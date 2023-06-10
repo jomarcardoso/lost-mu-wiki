@@ -1,5 +1,5 @@
 {
-  "$schema": "../set.schema.json",
+  "$schema": "../../set.schema.json",
   "key": "ADAMANTINE",
   "name": "Adamantine",
   "requiredCharacterKeys": ["DARK_LORD"],

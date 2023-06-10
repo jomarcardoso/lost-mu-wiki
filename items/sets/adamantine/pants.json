@@ -1,5 +1,5 @@
 {
-  "$schema": "../armor.schema.json",
+  "$schema": "../../armor.schema.json",
   "key": "ADAMANTINE_PANTS",
   "name": "Adamantine Pants",
   "img": "public/img/items/adamantine/adamantine-pants.webp",
