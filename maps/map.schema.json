@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "title": "Map",
+  "description": "Region of the Lost Continent.",
+  "properties": {
+    "key": {
+      "type": "string",
+      "description": "unique key to be used on the URL"
+    },
+    "name": {
+      "type": "string"
+    },
+    "img": {
+      "type": "string",
+      "description": "image URL"
+    },
+    "description": {
+      "type": "string"
+    },
+    "mobs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "spots": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "wallpapers": {
+      "type": "array",
+      "items": {
+        "$ref": "../image.schema.json"
+      }
+    },
+    "version": {
+      "$ref": "../version.schema.json"
+    }
+  },
+  "required": ["key", "name", "img"]
+}

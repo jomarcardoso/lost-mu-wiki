@@ -10,6 +10,9 @@
     "img": {
       "type": "string",
       "description": "image URL"
+    },
+    "version": {
+      "$ref": "../version.schema.json"
     }
   },
   "required": ["key", "name", "img"]
