@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "BONE",
+  "name": "Bone",
+  "requiredCharacterKeys": ["DARK_WIZARD", "MAGIC_GLADIATOR"],
+  "type": "SET",
+  "version": "0.2",
+  "img": "public/img/sets/large/bone.png",
+  "items": ["BONE_HELM", "BONE_ARMOR", "BONE_PANTS", "BONE_GLOVES", "BONE_BOOTS"]
+}

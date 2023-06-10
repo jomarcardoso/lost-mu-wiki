@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "BONE_HELM",
+  "name": "Bone Helm",
+  "img": "public/img/items/bone/bone-helm.webp",
+  "type": "HELM",
+  "normalLevels": [
+    { "defense": 9, "requiredStrength": 36 },
+    { "defense": 12, "requiredStrength": 38 },
+    { "defense": 15, "requiredStrength": 41 },
+    { "defense": 18, "requiredStrength": 44 },
+    { "defense": 21, "requiredStrength": 47 },
+    { "defense": 24, "requiredStrength": 49 },
+    { "defense": 27, "requiredStrength": 52 },
+    { "defense": 30, "requiredStrength": 55 },
+    { "defense": 33, "requiredStrength": 57 },
+    { "defense": 36, "requiredStrength": 60 },
+    { "defense": 40, "requiredStrength": 63 },
+    { "defense": 45, "requiredStrength": 65 },
+    { "defense": 51, "requiredStrength": 68 },
+    { "defense": 58, "requiredStrength": 71 },
+    { "defense": 66, "requiredStrength": 74 },
+    { "defense": 75, "requiredStrength": 76 }
+  ],
+  "excellentLevels": [
+    { "defense": 22, "requiredStrength": 58 },
+    { "defense": 25, "requiredStrength": 60 },
+    { "defense": 28, "requiredStrength": 63 },
+    { "defense": 31, "requiredStrength": 66 },
+    { "defense": 34, "requiredStrength": 69 },
+    { "defense": 37, "requiredStrength": 71 },
+    { "defense": 40, "requiredStrength": 74 },
+    { "defense": 43, "requiredStrength": 77 },
+    { "defense": 46, "requiredStrength": 79 },
+    { "defense": 49, "requiredStrength": 82 },
+    { "defense": 53, "requiredStrength": 85 },
+    { "defense": 58, "requiredStrength": 87 },
+    { "defense": 64, "requiredStrength": 90 },
+    { "defense": 71, "requiredStrength": 93 },
+    { "defense": 79, "requiredStrength": 96 },
+    { "defense": 88, "requiredStrength": 99 }
+  ]
+}
