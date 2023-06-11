@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "BRASS",
+  "name": "Brass",
+  "requiredCharacterKeys": ["DARK_KNIGHT", "MAGIC_GLADIATOR"],
+  "type": "SET",
+  "version": "0.1",
+  "img": "public/img/sets/brass.png",
+  "items": ["BRASS_HELM", "BRASS_ARMOR", "BRASS_PANTS", "BRASS_GLOVES", "BRASS_BOOTS"]
+}

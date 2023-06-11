@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "BRONZE",
+  "name": "Bronze",
+  "requiredCharacterKeys": ["DARK_KNIGHT", "MAGIC_GLADIATOR", "DARK_LORD"],
+  "type": "SET",
+  "version": "0.1",
+  "img": "public/img/sets/large/bronze.png",
+  "items": ["BRONZE_HELM", "BRONZE_ARMOR", "BRONZE_PANTS", "BRONZE_GLOVES", "BRONZE_BOOTS"]
+}
