@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "DARK_PHOENIX",
+  "name": "Dark Phoenix",
+  "requiredCharacterKeys": ["DARK_KNIGHT"],
+  "type": "SET",
+  "group": "icarus_item",
+  "version": "0.94",
+  "img": "public/img/sets/large/dark-phoenix.png",
+  "items": [
+    "DARK_PHOENIX_HELM",
+    "DARK_PHOENIX_ARMOR",
+    "DARK_PHOENIX_PANTS",
+    "DARK_PHOENIX_GLOVES",
+    "DARK_PHOENIX_BOOTS"
+  ],
+  "order": 102
+}
