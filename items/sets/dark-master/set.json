@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "DARK_MASTER",
+  "name": "Dark Master",
+  "description": "This is an armor that an unknown warrior accidentally found in the Temple of Kalima.\n\nThe purpose of the goddess creating it is engraved on the back of the armor: \"The final battle is about to begin, lucky ones, you put it on; unlucky ones, you put it on...\"\n\nThe mysterious spell, apart from confirming that this is a set of armor with terrifying power, seems to indicate some revelation about fate...",
+  "requiredCharacterKeys": ["DARK_LORD"],
+  "type": "SET",
+  "version": "0.99",
+  "img": "public/img/sets/dark-master.webp",
+  "items": [
+    "DARK_MASTER_MASK",
+    "DARK_MASTER_ARMOR",
+    "DARK_MASTER_PANTS",
+    "DARK_MASTER_GLOVES",
+    "DARK_MASTER_BOOTS"
+  ]
+}
