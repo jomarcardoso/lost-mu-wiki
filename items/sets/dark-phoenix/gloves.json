@@ -1,5 +1,6 @@
 {
   "$schema": "../../gloves.schema.json",
+  "key": "DARK_PHOENIX_GLOVES",
   "name": "Dark Phoenix Gloves",
   "img": "public/img/items/dark-phoenix/dark-phoenix-gloves.webp",
   "type": "GLOVES",

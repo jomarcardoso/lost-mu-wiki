@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "DARK_SOUL",
+  "name": "Dark Soul",
+  "description": "The Goddess channeled the power of darkness into it.\n\nAt the same time, it also has the magic power to gather the light of darkness to strengthen the power of darkness.\n\nThose who have their souls taken away by this magical power will face a life-and-death test. If they can overcome the test, they will be recognized as the real master of the armor, and the armor will be loyal to its master.\n\nWhether to control the darkness or let the darkness take life, Black Flame will be the only balance.",
+  "requiredCharacterKeys": ["DARK_WIZARD"],
+  "type": "SET",
+  "version": "0.99",
+  "img": "public/img/sets/dark-soul.webp",
+  "items": [
+    "DARK_SOUL_HELM",
+    "DARK_SOUL_ARMOR",
+    "DARK_SOUL_PANTS",
+    "DARK_SOUL_GLOVES",
+    "DARK_SOUL_BOOTS"
+  ]
+}
