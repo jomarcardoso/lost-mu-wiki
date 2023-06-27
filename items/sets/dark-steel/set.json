@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "DARK_STEEL",
+  "name": "Dark Steel",
+  "description": "When the holy teacher matures, the holy attire will become his best choice.\n\nLegend has it that this set of armor was made by the goddess from meteorites picked up from the cold abyss.\n\nBecause its composition has the shadow of the legendary star, whoever wears it is equal to being given the right to fight against the messenger of the dark power: Quinton.",
+  "requiredCharacterKeys": ["DARK_LORD"],
+  "type": "SET",
+  "version": "0.99",
+  "img": "public/img/sets/dark-steel.webp",
+  "items": [
+    "DARK_STEEL_MASK",
+    "DARK_STEEL_ARMOR",
+    "DARK_STEEL_PANTS",
+    "DARK_STEEL_GLOVES",
+    "DARK_STEEL_BOOTS"
+  ]
+}
