@@ -1,0 +1,12 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "HURRICANE",
+  "name": "Hurricane",
+  "description": "Devil's Clothes\n\nAlso known as Dark Souls.\n\nBecause of its hardness and defensive power, it is regarded as the strongest armor for magic swordsmen.\n\nIt is said that after the legendary strongest magic swordsman \"Babadil\" put on the dark purple radiant demon costume, his whole soul and all his great power suddenly turned into a puppet of the evil god.\n\nTherefore, there has been a saying that the souls of people who wear this set of armor will be conquered by evil forces.\n\nSo, you who are eager to get him, are you ready?",
+  "requiredCharacterKeys": ["MAGIC_GLADIATOR"],
+  "type": "SET",
+  "version": "0.99",
+  "img": "public/img/sets/hurricane.webp",
+  "relatedItemKeys": ["DARK_REIGN_BLADE"],
+  "items": ["HURRICANE_ARMOR", "HURRICANE_PANTS", "HURRICANE_GLOVES", "HURRICANE_BOOTS"]
+}

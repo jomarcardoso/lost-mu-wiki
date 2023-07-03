@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "LEATHER",
+  "name": "Leather",
+  "requiredCharacterKeys": ["DARK_KNIGHT", "MAGIC_GLADIATOR", "DARK_LORD"],
+  "type": "SET",
+  "version": "0.1",
+  "img": "public/img/sets/leather.png",
+  "items": ["LEATHER_HELM", "LEATHER_ARMOR", "LEATHER_PANTS", "LEATHER_GLOVES", "LEATHER_BOOTS"]
+}

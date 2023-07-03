@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "HURRICANE_PANTS",
+  "name": "Hurricane Pants",
+  "img": "public/img/items/hurricane/hurricane-pants.webp",
+  "type": "PANTS",
+  "normalLevels": [
+    { "defense": 61, "requiredStrength": 612, "requiredAgility": 261 },
+    { "defense": 64, "requiredStrength": 627, "requiredAgility": 267 },
+    { "defense": 67, "requiredStrength": 642, "requiredAgility": 273 },
+    { "defense": 70, "requiredStrength": 656, "requiredAgility": 279 },
+    { "defense": 73, "requiredStrength": 671, "requiredAgility": 285 },
+    { "defense": 76, "requiredStrength": 685, "requiredAgility": 291 },
+    { "defense": 79, "requiredStrength": 700, "requiredAgility": 297 },
+    { "defense": 82, "requiredStrength": 714, "requiredAgility": 303 },
+    { "defense": 85, "requiredStrength": 729, "requiredAgility": 309 },
+    { "defense": 88, "requiredStrength": 744, "requiredAgility": 315 },
+    { "defense": 92, "requiredStrength": 758, "requiredAgility": 320 },
+    { "defense": 97, "requiredStrength": 773, "requiredAgility": 326 },
+    { "defense": 103, "requiredStrength": 787, "requiredAgility": 332 },
+    { "defense": 110, "requiredStrength": 802, "requiredAgility": 338 },
+    { "defense": 118, "requiredStrength": 817, "requiredAgility": 344 },
+    { "defense": 127, "requiredStrength": 831, "requiredAgility": 350 }
+  ],
+  "excellentLevels": [
+    { "defense": 95, "requiredStrength": 734, "requiredAgility": 311 },
+    { "defense": 98, "requiredStrength": 749, "requiredAgility": 317 },
+    { "defense": 101, "requiredStrength": 763, "requiredAgility": 322 },
+    { "defense": 104, "requiredStrength": 778, "requiredAgility": 328 },
+    { "defense": 107, "requiredStrength": 792, "requiredAgility": 334 },
+    { "defense": 110, "requiredStrength": 807, "requiredAgility": 340 },
+    { "defense": 113, "requiredStrength": 821, "requiredAgility": 346 },
+    { "defense": 116, "requiredStrength": 836, "requiredAgility": 352 },
+    { "defense": 119, "requiredStrength": 851, "requiredAgility": 358 },
+    { "defense": 122, "requiredStrength": 865, "requiredAgility": 364 },
+    { "defense": 126, "requiredStrength": 880, "requiredAgility": 370 },
+    { "defense": 131, "requiredStrength": 894, "requiredAgility": 376 },
+    { "defense": 137, "requiredStrength": 909, "requiredAgility": 382 },
+    { "defense": 144, "requiredStrength": 923, "requiredAgility": 388 },
+    { "defense": 152, "requiredStrength": 938, "requiredAgility": 394 },
+    { "defense": 161, "requiredStrength": 953, "requiredAgility": 400 }
+  ]
+}

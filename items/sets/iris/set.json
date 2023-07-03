@@ -1,0 +1,12 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "IRIS",
+  "name": "Iris",
+  "description": "According to legend, it is a member of the personal guard and the armor worn by the\ngoblin Alice, the goblin queen's favorite, when she confronted Quinton. Forged\nwith the power of the forest elves, this armor endows the user with extraordinary\njudgment and quick action like a gust of wind.",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "version": "2.0",
+  "img": "public/img/sets/iris.webp",
+  "items": ["IRIS_HELM", "IRIS_ARMOR", "IRIS_PANTS", "IRIS_GLOVES", "IRIS_BOOTS"],
+  "relatedItemKeys": ["ASHCROW", "ECLIPSE", "VALIANT", "GLORIOUS"]
+}
