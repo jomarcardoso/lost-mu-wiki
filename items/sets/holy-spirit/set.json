@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "HOLY_SPIRIT",
+  "name": "Holy Spirit",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "group": "icarus_item",
+  "version": "0.94",
+  "img": "public/img/sets/holy-spirit.webp",
+  "items": [
+    "HOLY_SPIRIT_HELM",
+    "HOLY_SPIRIT_ARMOR",
+    "HOLY_SPIRIT_PANTS",
+    "HOLY_SPIRIT_GLOVES",
+    "HOLY_SPIRIT_BOOTS"
+  ]
+}
