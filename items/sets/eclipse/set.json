@@ -1,0 +1,12 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "ECLIPSE",
+  "name": "Eclipse",
+  "description": "Armor refined with the help of the moon's power on the night of the solar eclipse when the power of the moon is the most powerful. Based on the energy of the moon and full of magical abilities, it is lighter and more flexible than other armors, so it is the preferred type of armor for weak magicians.",
+  "requiredCharacterKeys": ["DARK_WIZARD"],
+  "type": "SET",
+  "version": "2.0",
+  "img": "public/img/sets/eclipse.webp",
+  "items": ["ECLIPSE_HELM", "ECLIPSE_ARMOR", "ECLIPSE_PANTS", "ECLIPSE_GLOVES", "ECLIPSE_BOOTS"],
+  "relatedItemKeys": ["ASHCROW", "IRIS", "VALIANT", "GLORIOUS"]
+}

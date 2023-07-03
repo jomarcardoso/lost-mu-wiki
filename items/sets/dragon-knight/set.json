@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "DRAGON_KNIGHT",
+  "name": "Dragon Knight",
+  "description": "A complete set of black armor with patterns in the shape of sparks, he contains the spiritual body of the black dragon king Rutra. The black dragon king Rutra is the guardian of the black knights, and only the black knights who have reached the highest level can borrow his power.",
+  "requiredCharacterKeys": ["DARK_KNIGHT"],
+  "type": "SET",
+  "group": "380_item",
+  "img": "public/img/sets/large/dragon-knight.png",
+  "items": [
+    "DRAGON_KNIGHT_HELM",
+    "DRAGON_KNIGHT_ARMOR",
+    "DRAGON_KNIGHT_PANTS",
+    "DRAGON_KNIGHT_GLOVES",
+    "DRAGON_KNIGHT_BOOTS"
+  ],
+  "relatedItemKeys": ["BONE_BLADE", "VENOM_MIST", "SYLPHID_RAY", "VOLCANO", "SUNLIGHT"]
+}

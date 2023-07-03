@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "DRAGON_ARMOR",
+  "name": "Dragon Armor",
+  "img": "public/img/items/dragon/dragon-armor.webp",
+  "type": "ARMOR",
+  "normalLevels": [
+    { "defense": 37, "requiredStrength": 232, "requiredAgility": 73 },
+    { "defense": 40, "requiredStrength": 243, "requiredAgility": 75 },
+    { "defense": 43, "requiredStrength": 254, "requiredAgility": 78 },
+    { "defense": 46, "requiredStrength": 264, "requiredAgility": 81 },
+    { "defense": 49, "requiredStrength": 275, "requiredAgility": 83 },
+    { "defense": 52, "requiredStrength": 286, "requiredAgility": 86 },
+    { "defense": 55, "requiredStrength": 297, "requiredAgility": 89 },
+    { "defense": 58, "requiredStrength": 308, "requiredAgility": 92 },
+    { "defense": 61, "requiredStrength": 318, "requiredAgility": 94 },
+    { "defense": 64, "requiredStrength": 329, "requiredAgility": 97 },
+    { "defense": 68, "requiredStrength": 340, "requiredAgility": 100 },
+    { "defense": 73, "requiredStrength": 351, "requiredAgility": 102 },
+    { "defense": 79, "requiredStrength": 362, "requiredAgility": 105 },
+    { "defense": 86, "requiredStrength": 372, "requiredAgility": 108 },
+    { "defense": 94, "requiredStrength": 383, "requiredAgility": 110 },
+    { "defense": 103, "requiredStrength": 394, "requiredAgility": 113 }
+  ],
+  "excellentLevels": [
+    { "defense": 59, "requiredStrength": 322, "requiredAgility": 95 },
+    { "defense": 62, "requiredStrength": 333, "requiredAgility": 98 },
+    { "defense": 65, "requiredStrength": 344, "requiredAgility": 101 },
+    { "defense": 68, "requiredStrength": 354, "requiredAgility": 103 },
+    { "defense": 71, "requiredStrength": 365, "requiredAgility": 106 },
+    { "defense": 74, "requiredStrength": 376, "requiredAgility": 109 },
+    { "defense": 77, "requiredStrength": 387, "requiredAgility": 111 },
+    { "defense": 80, "requiredStrength": 398, "requiredAgility": 114 },
+    { "defense": 83, "requiredStrength": 408, "requiredAgility": 117 },
+    { "defense": 86, "requiredStrength": 419, "requiredAgility": 119 },
+    { "defense": 90, "requiredStrength": 430, "requiredAgility": 122 },
+    { "defense": 95, "requiredStrength": 441, "requiredAgility": 125 },
+    { "defense": 101, "requiredStrength": 452, "requiredAgility": 128 },
+    { "defense": 108, "requiredStrength": 462, "requiredAgility": 130 },
+    { "defense": 116, "requiredStrength": 473, "requiredAgility": 133 },
+    { "defense": 116, "requiredStrength": 484, "requiredAgility": 136 }
+  ]
+}

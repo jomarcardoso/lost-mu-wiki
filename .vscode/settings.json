@@ -1,33 +1,97 @@
 {
-  "json.validate.enable": true,
-
-  // ###########################################################################
-  // ###################   FORMATADOR DEFAULT - BASE   #########################
-  // ###########################################################################
-
-  // formata ao salvar
+  // ### editor ###
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
   "editor.formatOnSave": true,
-
-  // adiciona linha guia na direita
-  "editor.rulers": [80],
-  "editor.detectIndentation": false,
-
-  // tabulação de 2 espaços
   "editor.tabSize": 2,
-
-  // remove espaços que não devem ser commitados
+  "editor.linkedEditing": true,
+  "editor.rulers": [80],
+  // passa a bola para extensões como prettier e stylelint
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
   "files.trimTrailingWhitespace": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
 
-  // insere uma linha no final do arquivo
-  "files.insertFinalNewline": true,
+  // ### prettier ###
+  "prettier.arrowParens": "always",
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 80,
+  "prettier.useTabs": false,
+  "prettier.semi": true,
+  "prettier.quoteProps": "as-needed",
+  "prettier.jsxSingleQuote": false,
+  "prettier.trailingComma": "all",
+  "prettier.bracketSpacing": true,
+  "prettier.jsxBracketSameLine": false,
+  "prettier.endOfLine": "auto",
 
-  // ###########################################################################
-  // ##################   FORMATADOR DEFAULT - MARKDOWN   ######################
-  // ###########################################################################
+  // ### JS/TS ###
+  "tslint.autoFixOnSave": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.format.semicolons": "insert",
+  "typescript.format.semicolons": "insert",
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.format.insertSpaceAfterConstructor": true,
+  "typescript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+
+  // ### CSS/SCSS ###
+  "stylelint.autoFixOnSave": true,
+  "[scss]": {
+    "editor.wordSeparators": "`~!@#%^*()-=+[{]}\\|;:'\",.<>/?"
+  },
+
+  // ### HTML ###
+  "[html]": {
+    // pois o prettier não faz isso bem
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "html.format.wrapLineLength": 80,
+  // quebra a linha de uma forma inteligente
+  "html.format.wrapAttributes": "preserve",
+
+  // ### PHP ###
+  "[php]": {
+    "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?"
+  },
 
   "[markdown]": {
     "editor.wordWrap": "on",
     "editor.renderWhitespace": "all",
     "editor.acceptSuggestionOnEnter": "off"
-  }
+  },
+
+  // ### terminal ###
+
+  "terminal.integrated.profiles.osx": {
+    "bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe"
+    }
+  },
+  "terminal.external.windowsExec": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "terminal.integrated.automationShell.windows": null,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+
+  // ### git ###
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // ### outros ###
+  "search.exclude": {
+    "**/*.snap": true,
+    "**/dist": true,
+    "**/yarn.lock": true,
+    "yarn.lock": true
+  },
+  "editor.fontSize": 15,
+  "explorer.confirmDelete": false,
+  "editor.suggestSelection": "first"
 }

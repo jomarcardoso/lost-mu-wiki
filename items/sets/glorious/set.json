@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "GLORIOUS",
+  "name": "Glorious",
+  "description": "Luxurious armor adorned with gold leaf. In addition to the functional features of this armor, its decorative features are also unobstructed. Therefore, this armor often wears a belt for victory when going out. This armor, which contains the special mark of the God of Light, can give the user a powerful lucky energy to avoid misfortune on the battlefield.",
+  "requiredCharacterKeys": ["DARK_LORD"],
+  "type": "SET",
+  "version": "2.0",
+  "img": "public/img/sets/glorious.webp",
+  "items": [
+    "GLORIOUS_MASK",
+    "GLORIOUS_ARMOR",
+    "GLORIOUS_PANTS",
+    "GLORIOUS_GLOVES",
+    "GLORIOUS_BOOTS"
+  ],
+  "relatedItemKeys": ["SHINING_SCEPTER", "ASHCROW", "ECLIPSE", "IRIS", "VALIANT"]
+}

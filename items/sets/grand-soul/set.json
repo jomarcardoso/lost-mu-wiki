@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "GRAND_SOUL",
+  "name": "Grand Soul",
+  "requiredCharacterKeys": ["DARK_WIZARD"],
+  "type": "SET",
+  "group": "icarus_item",
+  "version": "0.94",
+  "img": "public/img/sets/grand-soul.webp",
+  "items": [
+    "GRAND_SOUL_HELM",
+    "GRAND_SOUL_ARMOR",
+    "GRAND_SOUL_PANTS",
+    "GRAND_SOUL_GLOVES",
+    "GRAND_SOUL_BOOTS"
+  ]
+}
