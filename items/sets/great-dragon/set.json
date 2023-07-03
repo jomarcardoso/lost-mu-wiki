@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "GREAT_DRAGON",
+  "name": "Great Dragon",
+  "description": "Also known as flame armor.\n\nWhile some say the name is due to its appearance, this is not the case.\n\nIt is said that the goddess made this armor from the skeleton and skin of a fire dragon.\n\nIt itself exudes fiery flames, and you must have strong physical and mental strength to wear it, otherwise you will be killed by the heat of the armor.",
+  "requiredCharacterKeys": ["DARK_KNIGHT"],
+  "type": "SET",
+  "version": "0.99c",
+  "img": "public/img/sets/large/great-dragon.png",
+  "items": [
+    "GREAT_DRAGON_HELM",
+    "GREAT_DRAGON_ARMOR",
+    "GREAT_DRAGON_PANTS",
+    "GREAT_DRAGON_GLOVES",
+    "GREAT_DRAGON_BOOTS"
+  ]
+}

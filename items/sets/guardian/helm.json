@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "GUARDIAN_HELM",
+  "name": "Guardian Helm",
+  "img": "public/img/items/guardian/guardian-helm.webp",
+  "type": "HELM",
+  "normalLevels": [
+    { "defense": 23, "requiredStrength": 83, "requiredAgility": 147 },
+    { "defense": 26, "requiredStrength": 87, "requiredAgility": 154 },
+    { "defense": 29, "requiredStrength": 90, "requiredAgility": 161 },
+    { "defense": 32, "requiredStrength": 94, "requiredAgility": 168 },
+    { "defense": 35, "requiredStrength": 98, "requiredAgility": 176 },
+    { "defense": 38, "requiredStrength": 101, "requiredAgility": 183 },
+    { "defense": 41, "requiredStrength": 105, "requiredAgility": 190 },
+    { "defense": 44, "requiredStrength": 108, "requiredAgility": 197 },
+    { "defense": 47, "requiredStrength": 112, "requiredAgility": 204 },
+    { "defense": 50, "requiredStrength": 116, "requiredAgility": 212 },
+    { "defense": 54, "requiredStrength": 119, "requiredAgility": 219 },
+    { "defense": 59, "requiredStrength": 123, "requiredAgility": 226 },
+    { "defense": 65, "requiredStrength": 126, "requiredAgility": 233 },
+    { "defense": 72, "requiredStrength": 130, "requiredAgility": 240 },
+    { "defense": 80, "requiredStrength": 134, "requiredAgility": 248 },
+    { "defense": 89, "requiredStrength": 137, "requiredAgility": 255 }
+  ],
+  "excellentLevels": [
+    { "defense": 42, "requiredStrength": 113, "requiredAgility": 207 },
+    { "defense": 45, "requiredStrength": 117, "requiredAgility": 214 },
+    { "defense": 48, "requiredStrength": 120, "requiredAgility": 221 },
+    { "defense": 51, "requiredStrength": 124, "requiredAgility": 228 },
+    { "defense": 54, "requiredStrength": 128, "requiredAgility": 236 },
+    { "defense": 57, "requiredStrength": 131, "requiredAgility": 243 },
+    { "defense": 60, "requiredStrength": 135, "requiredAgility": 250 },
+    { "defense": 63, "requiredStrength": 138, "requiredAgility": 257 },
+    { "defense": 66, "requiredStrength": 142, "requiredAgility": 264 },
+    { "defense": 69, "requiredStrength": 146, "requiredAgility": 272 },
+    { "defense": 73, "requiredStrength": 149, "requiredAgility": 279 },
+    { "defense": 78, "requiredStrength": 153, "requiredAgility": 286 },
+    { "defense": 84, "requiredStrength": 156, "requiredAgility": 293 },
+    { "defense": 91, "requiredStrength": 160, "requiredAgility": 300 },
+    { "defense": 99, "requiredStrength": 164, "requiredAgility": 308 },
+    { "defense": 108, "requiredStrength": 167, "requiredAgility": 315 }
+  ]
+}

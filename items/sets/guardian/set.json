@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "GUARDIAN",
+  "name": "Guardian",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "img": "public/img/sets/guardian.webp",
+  "items": [
+    "GUARDIAN_HELM",
+    "GUARDIAN_ARMOR",
+    "GUARDIAN_PANTS",
+    "GUARDIAN_GLOVES",
+    "GUARDIAN_BOOTS"
+  ],
+  "order": 5,
+  "version": "0.45",
+  "relatedItemKeys": ["DRAGON", "LEGENDARY"]
+}
