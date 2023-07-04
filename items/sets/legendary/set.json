@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "LEGENDARY",
+  "name": "Legendary",
+  "requiredCharacterKeys": ["DARK_WIZARD", "MAGIC_GLADIATOR"],
+  "type": "SET",
+  "img": "public/img/sets/legendary.webp",
+  "items": [
+    "LEGENDARY_HELM",
+    "LEGENDARY_ARMOR",
+    "LEGENDARY_PANTS",
+    "LEGENDARY_GLOVES",
+    "LEGENDARY_BOOTS"
+  ],
+  "version": "0.45",
+  "relatedItemKeys": ["GUARDIAN", "LEGENDARY"]
+}

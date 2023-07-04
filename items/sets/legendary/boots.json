@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "LEGENDARY_BOOTS",
+  "name": "Legendary Boots",
+  "img": "public/img/items/legendary/legendary-boots.webp",
+  "type": "BOOTS",
+  "normalLevels": [
+    { "defense": 12, "requiredStrength": 61 },
+    { "defense": 15, "requiredStrength": 64 },
+    { "defense": 18, "requiredStrength": 66 },
+    { "defense": 21, "requiredStrength": 69 },
+    { "defense": 24, "requiredStrength": 72 },
+    { "defense": 27, "requiredStrength": 74 },
+    { "defense": 30, "requiredStrength": 77 },
+    { "defense": 33, "requiredStrength": 80 },
+    { "defense": 36, "requiredStrength": 83 },
+    { "defense": 39, "requiredStrength": 85 },
+    { "defense": 43, "requiredStrength": 88 },
+    { "defense": 48, "requiredStrength": 91 },
+    { "defense": 54, "requiredStrength": 93 },
+    { "defense": 61, "requiredStrength": 96 },
+    { "defense": 69, "requiredStrength": 99 },
+    { "defense": 78, "requiredStrength": 101 }
+  ],
+  "excellentLevels": [
+    { "defense": 28, "requiredStrength": 83 },
+    { "defense": 31, "requiredStrength": 86 },
+    { "defense": 34, "requiredStrength": 89 },
+    { "defense": 37, "requiredStrength": 92 },
+    { "defense": 40, "requiredStrength": 94 },
+    { "defense": 43, "requiredStrength": 97 },
+    { "defense": 46, "requiredStrength": 100 },
+    { "defense": 49, "requiredStrength": 102 },
+    { "defense": 52, "requiredStrength": 105 },
+    { "defense": 55, "requiredStrength": 108 },
+    { "defense": 59, "requiredStrength": 110 },
+    { "defense": 64, "requiredStrength": 113 },
+    { "defense": 70, "requiredStrength": 116 },
+    { "defense": 77, "requiredStrength": 119 },
+    { "defense": 85, "requiredStrength": 121 },
+    { "defense": 94, "requiredStrength": 124 }
+  ]
+}
