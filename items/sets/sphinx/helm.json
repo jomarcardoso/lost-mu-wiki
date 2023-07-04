@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "SPHINX_HELM",
+  "name": "Sphinx Helm",
+  "img": "public/img/items/sphinx/sphinx-mask.webp",
+  "type": "HELM",
+  "normalLevels": [
+    { "defense": 13, "requiredStrength": 48 },
+    { "defense": 16, "requiredStrength": 51 },
+    { "defense": 19, "requiredStrength": 54 },
+    { "defense": 22, "requiredStrength": 56 },
+    { "defense": 25, "requiredStrength": 59 },
+    { "defense": 28, "requiredStrength": 62 },
+    { "defense": 31, "requiredStrength": 65 },
+    { "defense": 34, "requiredStrength": 67 },
+    { "defense": 37, "requiredStrength": 70 },
+    { "defense": 40, "requiredStrength": 73 },
+    { "defense": 44, "requiredStrength": 75 },
+    { "defense": 49, "requiredStrength": 78 },
+    { "defense": 55, "requiredStrength": 81 },
+    { "defense": 62, "requiredStrength": 83 },
+    { "defense": 70, "requiredStrength": 86 },
+    { "defense": 79, "requiredStrength": 89 }
+  ],
+  "excellentLevels": [
+    { "defense": 27, "requiredStrength": 71 },
+    { "defense": 32, "requiredStrength": 74 },
+    { "defense": 35, "requiredStrength": 77 },
+    { "defense": 38, "requiredStrength": 79 },
+    { "defense": 41, "requiredStrength": 82 },
+    { "defense": 44, "requiredStrength": 85 },
+    { "defense": 47, "requiredStrength": 88 },
+    { "defense": 50, "requiredStrength": 90 },
+    { "defense": 53, "requiredStrength": 93 },
+    { "defense": 56, "requiredStrength": 95 },
+    { "defense": 60, "requiredStrength": 98 },
+    { "defense": 65, "requiredStrength": 101 },
+    { "defense": 71, "requiredStrength": 103 },
+    { "defense": 78, "requiredStrength": 106 },
+    { "defense": 84, "requiredStrength": 109 },
+    { "defense": 93, "requiredStrength": 111 }
+  ]
+}

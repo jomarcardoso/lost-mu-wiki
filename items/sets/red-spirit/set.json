@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "RED_SPIRIT",
+  "name": "Red Spirit",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "description": "It is said that the goddess melted the armor made of red crystal.\n\nOnly the secret recipe for its production is passed down among the elves, but no one knows how it is produced until now.At that time, the elf carpenter Hagnes Robanel ordered this armor for the witch Beryl. But the witch killed Hargness in order to make this set of armor a unique treasure. Later, Bapost, the elf king, dueled with Beryl, but failed to leave a trace on its armor.\n\nBapost was extremely resentful, and after passing the throne to the elf prince Junidio, he returned to the Fairy Forest.",
+  "type": "SET",
+  "version": "0.99c",
+  "img": "public/img/sets/red-spirit.webp",
+  "items": [
+    "RED_SPIRIT_HELM",
+    "RED_SPIRIT_ARMOR",
+    "RED_SPIRIT_PANTS",
+    "RED_SPIRIT_GLOVES",
+    "RED_SPIRIT_BOOTS"
+  ]
+}

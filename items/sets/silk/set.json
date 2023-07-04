@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "SILK",
+  "name": "Silk",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "version": "0.34",
+  "img": "public/img/sets/silk.png",
+  "items": ["SILK_HELM", "SILK_ARMOR", "SILK_PANTS", "SILK_GLOVES", "SILK_BOOTS"]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "SCALE",
+  "name": "Scale",
+  "requiredCharacterKeys": ["DARK_KNIGHT", "MAGIC_GLADIATOR", "DARK_LORD"],
+  "type": "SET",
+  "version": "0.1",
+  "img": "public/img/sets/scale.png",
+  "items": ["SCALE_HELM", "SCALE_ARMOR", "SCALE_PANTS", "SCALE_GLOVES", "SCALE_BOOTS"]
+}

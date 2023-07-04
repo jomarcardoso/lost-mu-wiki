@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "SCALE_BOOTS",
+  "name": "Scale Boots",
+  "img": "public/img/items/scale/scale-boots.webp",
+  "type": "BOOTS",
+  "normalLevels": [
+    { "defense": 8, "requiredStrength": 92 },
+    { "defense": 11, "requiredStrength": 102 },
+    { "defense": 14, "requiredStrength": 112 },
+    { "defense": 17, "requiredStrength": 122 },
+    { "defense": 20, "requiredStrength": 132 },
+    { "defense": 23, "requiredStrength": 142 },
+    { "defense": 26, "requiredStrength": 152 },
+    { "defense": 29, "requiredStrength": 161 },
+    { "defense": 32, "requiredStrength": 171 },
+    { "defense": 35, "requiredStrength": 181 },
+    { "defense": 39, "requiredStrength": 191 },
+    { "defense": 44, "requiredStrength": 201 },
+    { "defense": 50, "requiredStrength": 211 },
+    { "defense": 57, "requiredStrength": 221 },
+    { "defense": 65, "requiredStrength": 231 },
+    { "defense": 74, "requiredStrength": 241 }
+  ],
+  "excellentLevels": [
+    { "defense": 20, "requiredStrength": 175 },
+    { "defense": 23, "requiredStrength": 185 },
+    { "defense": 26, "requiredStrength": 194 },
+    { "defense": 29, "requiredStrength": 204 },
+    { "defense": 32, "requiredStrength": 214 },
+    { "defense": 35, "requiredStrength": 224 },
+    { "defense": 38, "requiredStrength": 234 },
+    { "defense": 41, "requiredStrength": 244 },
+    { "defense": 44, "requiredStrength": 254 },
+    { "defense": 47, "requiredStrength": 264 },
+    { "defense": 51, "requiredStrength": 274 },
+    { "defense": 56, "requiredStrength": 284 },
+    { "defense": 62, "requiredStrength": 293 },
+    { "defense": 69, "requiredStrength": 303 },
+    { "defense": 77, "requiredStrength": 313 },
+    { "defense": 86, "requiredStrength": 323 }
+  ]
+}

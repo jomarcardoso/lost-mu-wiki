@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "SPHINX",
+  "name": "Sphinx",
+  "requiredCharacterKeys": ["DARK_WIZARD", "MAGIC_GLADIATOR"],
+  "type": "SET",
+  "version": "0.2",
+  "img": "public/img/sets/sphinx.webp",
+  "items": ["SPHINX_HELM", "SPHINX_ARMOR", "SPHINX_PANTS", "SPHINX_GLOVES", "SPHINX_BOOTS"]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "SPIRIT",
+  "name": "Spirit",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "version": "0.34",
+  "img": "public/img/sets/spirit.png",
+  "items": ["SPIRIT_HELM", "SPIRIT_ARMOR", "SPIRIT_PANTS", "SPIRIT_GLOVES", "SPIRIT_BOOTS"]
+}
