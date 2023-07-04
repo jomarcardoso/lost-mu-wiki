@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "PLATE_HELM",
+  "name": "Plate Helm",
+  "img": "public/img/items/plate/plate-helm.webp",
+  "type": "HELM",
+  "normalLevels": [
+    { "defense": 20, "requiredStrength": 199 },
+    { "defense": 23, "requiredStrength": 211 },
+    { "defense": 26, "requiredStrength": 222 },
+    { "defense": 29, "requiredStrength": 234 },
+    { "defense": 32, "requiredStrength": 246 },
+    { "defense": 35, "requiredStrength": 257 },
+    { "defense": 38, "requiredStrength": 269 },
+    { "defense": 41, "requiredStrength": 281 },
+    { "defense": 44, "requiredStrength": 293 },
+    { "defense": 47, "requiredStrength": 304 },
+    { "defense": 51, "requiredStrength": 316 },
+    { "defense": 56, "requiredStrength": 328 },
+    { "defense": 62, "requiredStrength": 339 },
+    { "defense": 69, "requiredStrength": 351 },
+    { "defense": 77, "requiredStrength": 363 },
+    { "defense": 86, "requiredStrength": 374 }
+  ],
+  "excellentLevels": [
+    { "defense": 38, "requiredStrength": 296 },
+    { "defense": 41, "requiredStrength": 308 },
+    { "defense": 44, "requiredStrength": 320 },
+    { "defense": 47, "requiredStrength": 332 },
+    { "defense": 50, "requiredStrength": 343 },
+    { "defense": 53, "requiredStrength": 355 },
+    { "defense": 56, "requiredStrength": 367 },
+    { "defense": 59, "requiredStrength": 378 },
+    { "defense": 62, "requiredStrength": 390 },
+    { "defense": 65, "requiredStrength": 402 },
+    { "defense": 69, "requiredStrength": 413 },
+    { "defense": 74, "requiredStrength": 425 },
+    { "defense": 80, "requiredStrength": 437 },
+    { "defense": 87, "requiredStrength": 449 },
+    { "defense": 95, "requiredStrength": 460 },
+    { "defense": 104, "requiredStrength": 472 }
+  ]
+}

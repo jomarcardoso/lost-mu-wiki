@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "PLATE",
+  "name": "Plate",
+  "requiredCharacterKeys": ["DARK_KNIGHT"],
+  "type": "SET",
+  "version": "0.1",
+  "img": "public/img/sets/plate.png",
+  "items": ["PLATE_HELM", "PLATE_ARMOR", "PLATE_PANTS", "PLATE_GLOVES", "PLATE_BOOTS"]
+}

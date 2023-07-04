@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "LIGHT_PLATE",
+  "name": "Light Plate",
+  "description": "The prominent curved shoulders are the biggest feature of this set of armor in appearance.\n\nThis is the first set of exclusive armor that the Holy Teacher can wear. Like the battle scepter, this was his first set of armor when he entered the world.\n\nNot the strongest, but an indispensable piece of equipment. The shoulder blades are said to be forged from an ancient metal found in meteorites.",
+  "requiredCharacterKeys": ["DARK_LORD"],
+  "type": "SET",
+  "version": "0.99",
+  "img": "public/img/sets/light-plate.webp",
+  "items": [
+    "LIGHT_PLATE_MASK",
+    "LIGHT_PLATE_ARMOR",
+    "LIGHT_PLATE_PANTS",
+    "LIGHT_PLATE_GLOVES",
+    "LIGHT_PLATE_BOOTS"
+  ]
+}

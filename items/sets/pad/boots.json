@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "PAD_BOOTS",
+  "name": "Pad Boots",
+  "img": "public/img/items/pad/pad-boots.webp",
+  "type": "BOOTS",
+  "normalLevels": [
+    { "defense": 3, "requiredStrength": 22 },
+    { "defense": 6, "requiredStrength": 24 },
+    { "defense": 9, "requiredStrength": 26 },
+    { "defense": 12, "requiredStrength": 27 },
+    { "defense": 15, "requiredStrength": 29 },
+    { "defense": 18, "requiredStrength": 31 },
+    { "defense": 21, "requiredStrength": 33 },
+    { "defense": 24, "requiredStrength": 35 },
+    { "defense": 27, "requiredStrength": 36 },
+    { "defense": 30, "requiredStrength": 38 },
+    { "defense": 34, "requiredStrength": 40 },
+    { "defense": 39, "requiredStrength": 42 },
+    { "defense": 45, "requiredStrength": 44 },
+    { "defense": 52, "requiredStrength": 45 },
+    { "defense": 60, "requiredStrength": 47 },
+    { "defense": 69, "requiredStrength": 49 }
+  ],
+  "excellentLevels": [
+    { "defense": 16, "requiredStrength": 37 },
+    { "defense": 19, "requiredStrength": 39 },
+    { "defense": 22, "requiredStrength": 41 },
+    { "defense": 25, "requiredStrength": 42 },
+    { "defense": 28, "requiredStrength": 44 },
+    { "defense": 31, "requiredStrength": 46 },
+    { "defense": 34, "requiredStrength": 48 },
+    { "defense": 37, "requiredStrength": 50 },
+    { "defense": 40, "requiredStrength": 51 },
+    { "defense": 43, "requiredStrength": 53 },
+    { "defense": 47, "requiredStrength": 55 },
+    { "defense": 52, "requiredStrength": 57 },
+    { "defense": 58, "requiredStrength": 59 },
+    { "defense": 65, "requiredStrength": 60 },
+    { "defense": 73, "requiredStrength": 62 },
+    { "defense": 82, "requiredStrength": 64 }
+  ]
+}

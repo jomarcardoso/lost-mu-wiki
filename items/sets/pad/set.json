@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "PAD",
+  "name": "Pad",
+  "requiredCharacterKeys": ["DARK_WIZARD", "MAGIC_GLADIATOR"],
+  "type": "SET",
+  "version": "0.2",
+  "img": "public/img/sets/pad.png",
+  "items": ["PAD_HELM", "PAD_ARMOR", "PAD_PANTS", "PAD_GLOVES", "PAD_BOOTS"]
+}
