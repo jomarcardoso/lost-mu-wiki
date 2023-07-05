@@ -1,0 +1,17 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "SYLPHID_RAY",
+  "name": "Sylphid Ray",
+  "description": "Armor of the Nornen that gathers the souls of the elves. Legend has it that Nornen appeared in this world as a silver fox. Therefore, the chest of this set of armor is designed with the face of a fox, and the whole suit is a crystallization of elf intelligence. At the same time, this set of armor is specially allowed to be used by the highest realm fighters of the elves.",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "group": "380_item",
+  "img": "public/img/sets/sylphid-ray.webp",
+  "items": [
+    "SYLPHID_RAY_HELM",
+    "SYLPHID_RAY_ARMOR",
+    "SYLPHID_RAY_PANTS",
+    "SYLPHID_RAY_GLOVES",
+    "SYLPHID_RAY_BOOTS"
+  ]
+}

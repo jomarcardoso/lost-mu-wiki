@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "SUNLIGHT",
+  "name": "Sunlight",
+  "description": "Armor imbued with the blessing of RuGuard, the god of light. Use RuGuard's sacred light to refine seven days and seven nights, so it will emit brilliant light even in the dark night. Also engraved on the chest of the armor is the image of GaRuda, the guardian of the Imperial Empire, the agent of RuGuard.",
+  "requiredCharacterKeys": ["DARK_LORD"],
+  "type": "SET",
+  "group": "380_item",
+  "img": "public/img/sets/sunlight.webp",
+  "relatedItemKeys": ["SOLEIL_SCEPTER", "DRAGON_KNIGHT", "VENOM_MIST", "SYLPHID_RAY", "VOLCANO"],
+  "items": [
+    "SUNLIGHT_MASK",
+    "SUNLIGHT_ARMOR",
+    "SUNLIGHT_PANTS",
+    "SUNLIGHT_GLOVES",
+    "SUNLIGHT_BOOTS"
+  ]
+}
