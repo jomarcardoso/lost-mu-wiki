@@ -1,0 +1,12 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "VALIANT",
+  "name": "Valiant",
+  "description": "as the armor of the Central Army of the Miracle Empire and the Imperial Guardian Army, and the armor issued by the emperor himself when he enlists in the army. The first owner of this armor is Kane Karin, the founding hero of the Miracle Empire and the first commander-in-chief of the Imperial Guardian Army. Since then, all Imperial Guardians have begun to wear this armor.",
+  "requiredCharacterKeys": ["MAGIC_GLADIATOR"],
+  "type": "SET",
+  "version": "2.0",
+  "img": "public/img/sets/valiant.webp",
+  "items": ["VALIANT_ARMOR", "VALIANT_PANTS", "VALIANT_GLOVES", "VALIANT_BOOTS"],
+  "relatedItemKeys": ["SWORD_DANCER", "ASHCROW", "ECLIPSE", "IRIS", "GLORIOUS"]
+}

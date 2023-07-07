@@ -7,6 +7,5 @@
   "version": "0.45",
   "img": "public/img/sets/large/dragon.png",
   "items": ["DRAGON_HELM", "DRAGON_ARMOR", "DRAGON_PANTS", "DRAGON_GLOVES", "DRAGON_BOOTS"],
-  "order": 6,
   "relatedItemKeys": ["GUARDIAN", "LEGENDARY"]
 }

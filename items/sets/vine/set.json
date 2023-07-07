@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "VINE",
+  "name": "Vine",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "version": "0.34",
+  "img": "public/img/sets/vine.png",
+  "items": ["VINE_HELM", "VINE_ARMOR", "VINE_PANTS", "VINE_GLOVES", "VINE_BOOTS"]
+}

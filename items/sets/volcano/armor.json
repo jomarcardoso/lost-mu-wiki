@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "VOLCANO_ARMOR",
+  "name": "Volcano Armor",
+  "img": "public/img/items/volcano/volcano-armor.webp",
+  "type": "ARMOR",
+  "normalLevels": [
+    { "defense": 86, "requiredStrength": 659, "requiredAgility": 284 },
+    { "defense": 89, "requiredStrength": 672, "requiredAgility": 290 },
+    { "defense": 92, "requiredStrength": 685, "requiredAgility": 295 },
+    { "defense": 95, "requiredStrength": 698, "requiredAgility": 300 },
+    { "defense": 98, "requiredStrength": 711, "requiredAgility": 306 },
+    { "defense": 101, "requiredStrength": 724, "requiredAgility": 311 },
+    { "defense": 104, "requiredStrength": 737, "requiredAgility": 317 },
+    { "defense": 107, "requiredStrength": 750, "requiredAgility": 322 },
+    { "defense": 110, "requiredStrength": 763, "requiredAgility": 327 },
+    { "defense": 113, "requiredStrength": 776, "requiredAgility": 333 },
+    { "defense": 117, "requiredStrength": 789, "requiredAgility": 338 },
+    { "defense": 122, "requiredStrength": 803, "requiredAgility": 344 },
+    { "defense": 128, "requiredStrength": 816, "requiredAgility": 349 },
+    { "defense": 135, "requiredStrength": 829, "requiredAgility": 354 },
+    { "defense": 143, "requiredStrength": 842, "requiredAgility": 360 },
+    { "defense": 152, "requiredStrength": 855, "requiredAgility": 365 }
+  ],
+  "excellentLevels": [
+    { "defense": 125, "requiredStrength": 768, "requiredAgility": 329 },
+    { "defense": 128, "requiredStrength": 781, "requiredAgility": 335 },
+    { "defense": 131, "requiredStrength": 794, "requiredAgility": 340 },
+    { "defense": 134, "requiredStrength": 807, "requiredAgility": 345 },
+    { "defense": 137, "requiredStrength": 820, "requiredAgility": 351 },
+    { "defense": 140, "requiredStrength": 833, "requiredAgility": 356 },
+    { "defense": 143, "requiredStrength": 846, "requiredAgility": 362 },
+    { "defense": 146, "requiredStrength": 859, "requiredAgility": 367 },
+    { "defense": 149, "requiredStrength": 872, "requiredAgility": 372 },
+    { "defense": 152, "requiredStrength": 885, "requiredAgility": 378 },
+    { "defense": 156, "requiredStrength": 898, "requiredAgility": 383 },
+    { "defense": 161, "requiredStrength": 911, "requiredAgility": 389 },
+    { "defense": 167, "requiredStrength": 924, "requiredAgility": 394 },
+    { "defense": 174, "requiredStrength": 937, "requiredAgility": 399 },
+    { "defense": 182, "requiredStrength": 950, "requiredAgility": 405 },
+    { "defense": 190, "requiredStrength": 963, "requiredAgility": 410 }
+  ]
+}

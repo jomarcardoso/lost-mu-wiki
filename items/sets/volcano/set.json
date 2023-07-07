@@ -1,0 +1,12 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "VOLCANO",
+  "name": "Volcano",
+  "description": "Sogol is a monster with very strong physical strength and excellent magical power. This feature is very similar to a magic swordsman who is proficient in using swordsmanship and magic at the same time, so it is often confused by uninformed people. It is said that the Heavenly Demon Fighting God's Armor contains the power of the leader of the Chagol tribe, and only those who are admired by this demon leader can use this set of armor.",
+  "requiredCharacterKeys": ["MAGIC_GLADIATOR"],
+  "type": "SET",
+  "group": "380_item",
+  "img": "public/img/sets/volcano.png",
+  "relatedItemKeys": ["EXPLOSION_BLADE", "DRAGON_KNIGHT", "VENOM_MIST", "SYLPHID_RAY", "SUNLIGHT"],
+  "items": ["VOLCANO_ARMOR", "VOLCANO_PANTS", "VOLCANO_GLOVES", "VOLCANO_BOOTS"]
+}

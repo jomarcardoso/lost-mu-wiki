@@ -12,7 +12,6 @@
     "GUARDIAN_GLOVES",
     "GUARDIAN_BOOTS"
   ],
-  "order": 5,
   "version": "0.45",
   "relatedItemKeys": ["DRAGON", "LEGENDARY"]
 }

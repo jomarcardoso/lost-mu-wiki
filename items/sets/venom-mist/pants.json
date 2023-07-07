@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "VENOM_MIST_PANTS",
+  "name": "Venom Mist Pants",
+  "img": "public/img/items/venom-mist/venom-mist-pants.webp",
+  "type": "PANTS",
+  "normalLevels": [
+    { "defense": 55, "requiredStrength": 198, "requiredAgility": 80 },
+    { "defense": 58, "requiredStrength": 202, "requiredAgility": 82 },
+    { "defense": 61, "requiredStrength": 206, "requiredAgility": 83 },
+    { "defense": 64, "requiredStrength": 210, "requiredAgility": 84 },
+    { "defense": 67, "requiredStrength": 214, "requiredAgility": 86 },
+    { "defense": 70, "requiredStrength": 218, "requiredAgility": 87 },
+    { "defense": 73, "requiredStrength": 221, "requiredAgility": 88 },
+    { "defense": 76, "requiredStrength": 225, "requiredAgility": 90 },
+    { "defense": 79, "requiredStrength": 229, "requiredAgility": 91 },
+    { "defense": 82, "requiredStrength": 233, "requiredAgility": 92 },
+    { "defense": 86, "requiredStrength": 237, "requiredAgility": 94 },
+    { "defense": 91, "requiredStrength": 241, "requiredAgility": 95 },
+    { "defense": 97, "requiredStrength": 245, "requiredAgility": 96 },
+    { "defense": 104, "requiredStrength": 249, "requiredAgility": 98 },
+    { "defense": 112, "requiredStrength": 253, "requiredAgility": 99 },
+    { "defense": 121, "requiredStrength": 257, "requiredAgility": 101 }
+  ],
+  "excellentLevels": [
+    { "defense": 90, "requiredStrength": 231, "requiredAgility": 92 },
+    { "defense": 93, "requiredStrength": 235, "requiredAgility": 93 },
+    { "defense": 96, "requiredStrength": 239, "requiredAgility": 94 },
+    { "defense": 99, "requiredStrength": 243, "requiredAgility": 96 },
+    { "defense": 102, "requiredStrength": 247, "requiredAgility": 97 },
+    { "defense": 105, "requiredStrength": 251, "requiredAgility": 98 },
+    { "defense": 108, "requiredStrength": 254, "requiredAgility": 100 },
+    { "defense": 111, "requiredStrength": 258, "requiredAgility": 101 },
+    { "defense": 114, "requiredStrength": 262, "requiredAgility": 102 },
+    { "defense": 117, "requiredStrength": 266, "requiredAgility": 104 },
+    { "defense": 121, "requiredStrength": 270, "requiredAgility": 105 },
+    { "defense": 126, "requiredStrength": 274, "requiredAgility": 106 },
+    { "defense": 132, "requiredStrength": 278, "requiredAgility": 108 },
+    { "defense": 139, "requiredStrength": 282, "requiredAgility": 109 },
+    { "defense": 147, "requiredStrength": 286, "requiredAgility": 110 },
+    { "defense": 156, "requiredStrength": 290, "requiredAgility": 112 }
+  ]
+}

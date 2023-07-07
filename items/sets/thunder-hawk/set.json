@@ -1,13 +1,12 @@
 {
   "$schema": "../../set.schema.json",
-  "key": "STORM_CROW",
-  "name": "Storm Crow",
-  "alias": "Atlan's set",
+  "key": "THUNDER_HAWK",
+  "name": "Thunder Hawk",
   "requiredCharacterKeys": ["MAGIC_GLADIATOR"],
-  "description": "Storm Crow Set initially called Atlans's Set was brought with expansion of Atlans maps. Storm Crow is the first Magic Gladiator set.",
   "type": "SET",
-  "group": "atlans_item",
-  "version": "0.64",
-  "img": "public/img/sets/storm-crow.webp",
-  "items": ["ATLANS_ARMOR", "ATLANS_PANTS", "ATLANS_GLOVES", "ATLANS_BOOTS"]
+  "group": "icarus_item",
+  "version": "0.94",
+  "img": "public/img/sets/thunder-hawk.webp",
+  "relatedItemKeys": ["THUNDER_BLADE"],
+  "items": ["THUNDER_HAWK_ARMOR", "THUNDER_HAWK_PANTS", "THUNDER_HAWK_GLOVES", "THUNDER_HAWK_BOOTS"]
 }

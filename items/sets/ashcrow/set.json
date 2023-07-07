@@ -8,6 +8,5 @@
   "version": "2.0",
   "img": "public/img/sets/ashcrow.png",
   "items": ["ASHCROW_HELM", "ASHCROW_ARMOR", "ASHCROW_PANTS", "ASHCROW_GLOVES", "ASHCROW_BOOTS"],
-  "order": 101,
   "relatedItemKeys": ["ECLIPSE", "IRIS", "VALIANT", "GLORIOUS"]
 }

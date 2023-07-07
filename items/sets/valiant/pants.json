@@ -1,0 +1,43 @@
+{
+  "$schema": "../../armor.schema.json",
+  "key": "VALIANT_PANTS",
+  "name": "Valiant Pants",
+  "img": "public/img/items/valiant/valiant-pants.webp",
+  "type": "PANTS",
+  "normalLevels": [
+    { "defense": 41, "requiredStrength": 489, "requiredAgility": 171 },
+    { "defense": 44, "requiredStrength": 503, "requiredAgility": 176 },
+    { "defense": 47, "requiredStrength": 517, "requiredAgility": 180 },
+    { "defense": 50, "requiredStrength": 531, "requiredAgility": 185 },
+    { "defense": 53, "requiredStrength": 545, "requiredAgility": 189 },
+    { "defense": 56, "requiredStrength": 559, "requiredAgility": 194 },
+    { "defense": 59, "requiredStrength": 573, "requiredAgility": 198 },
+    { "defense": 62, "requiredStrength": 587, "requiredAgility": 203 },
+    { "defense": 65, "requiredStrength": 601, "requiredAgility": 207 },
+    { "defense": 68, "requiredStrength": 615, "requiredAgility": 212 },
+    { "defense": 72, "requiredStrength": 629, "requiredAgility": 216 },
+    { "defense": 77, "requiredStrength": 643, "requiredAgility": 221 },
+    { "defense": 83, "requiredStrength": 657, "requiredAgility": 225 },
+    { "defense": 90, "requiredStrength": 671, "requiredAgility": 230 },
+    { "defense": 98, "requiredStrength": 684, "requiredAgility": 234 },
+    { "defense": 107, "requiredStrength": 698, "requiredAgility": 239 }
+  ],
+  "excellentLevels": [
+    { "defense": 69, "requiredStrength": 605, "requiredAgility": 209 },
+    { "defense": 72, "requiredStrength": 619, "requiredAgility": 213 },
+    { "defense": 75, "requiredStrength": 633, "requiredAgility": 218 },
+    { "defense": 78, "requiredStrength": 647, "requiredAgility": 222 },
+    { "defense": 81, "requiredStrength": 661, "requiredAgility": 227 },
+    { "defense": 84, "requiredStrength": 675, "requiredAgility": 231 },
+    { "defense": 87, "requiredStrength": 689, "requiredAgility": 236 },
+    { "defense": 90, "requiredStrength": 703, "requiredAgility": 240 },
+    { "defense": 93, "requiredStrength": 717, "requiredAgility": 245 },
+    { "defense": 96, "requiredStrength": 731, "requiredAgility": 249 },
+    { "defense": 100, "requiredStrength": 745, "requiredAgility": 254 },
+    { "defense": 105, "requiredStrength": 759, "requiredAgility": 258 },
+    { "defense": 111, "requiredStrength": 773, "requiredAgility": 263 },
+    { "defense": 118, "requiredStrength": 787, "requiredAgility": 267 },
+    { "defense": 126, "requiredStrength": 801, "requiredAgility": 272 },
+    { "defense": 135, "requiredStrength": 815, "requiredAgility": 276 }
+  ]
+}

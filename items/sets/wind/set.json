@@ -1,0 +1,10 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "WIND",
+  "name": "Wind",
+  "requiredCharacterKeys": ["FAIRY_ELF"],
+  "type": "SET",
+  "version": "0.34",
+  "img": "public/img/sets/wind.png",
+  "items": ["WIND_HELM", "WIND_ARMOR", "WIND_PANTS", "WIND_GLOVES", "WIND_BOOTS"]
+}

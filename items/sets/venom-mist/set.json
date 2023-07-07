@@ -1,0 +1,18 @@
+{
+  "$schema": "../../set.schema.json",
+  "key": "VENOM_MIST",
+  "name": "Venom Mist",
+  "description": "The armor of Bergen, a sacred snake spirit that symbolizes infinite wisdom and magical power. Those who have not reached the peak of the magician cannot bear the power of Bergen, so only magicians who have reached a certain level can wear this armor.",
+  "requiredCharacterKeys": ["DARK_WIZARD"],
+  "type": "SET",
+  "group": "380_item",
+  "img": "public/img/sets/venom-mist.webp",
+  "relatedItemKeys": ["GRAND_VIPER_STAFF", "DRAGON_KNIGHT", "SYLPHID_RAY", "VOLCANO", "SUNLIGHT"],
+  "items": [
+    "VENOM_MIST_HELM",
+    "VENOM_MIST_ARMOR",
+    "VENOM_MIST_PANTS",
+    "VENOM_MIST_GLOVES",
+    "VENOM_MIST_BOOTS"
+  ]
+}
