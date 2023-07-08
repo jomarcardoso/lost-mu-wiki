@@ -1,8 +1,8 @@
 {
   "key": "KANTURU_RUINS",
   "name": "Kanturu Ruins",
-  "img": "public/img/maps/kanturu-ruins/kanturu-ruins.webp",
-  "thumb": "public/img/maps/kanturu-ruins/kanturu-ruins-3d.jpg",
+  "img": "./img/kanturu-ruins.webp",
+  "thumb": "./img/kanturu-ruins-3d.jpg",
   "mobs": [
     "SPLINTER_WOLF",
     "IRON_RIDER",

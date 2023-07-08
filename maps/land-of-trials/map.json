@@ -1,8 +1,8 @@
 {
   "key": "LAND_OF_TRIALS",
   "name": "Land of Trials",
-  "img": "public/img/maps/land-of-trials/land-of-trials.webp",
-  "thumb": "public/img/maps/land-of-trials/land-of-trials-3d.jpg",
+  "img": "./img/land-of-trials.webp",
+  "thumb": "./img/land-of-trials-3d.jpg",
   "mobsDescription": "Legend has it that there are monsters that have never been seen in the entire Miracle Continent living in the land of magic refining. Horror and ferocity are synonymous with them.\n\nUnder the leadership of the terrible purgatory demon king, the human beings who entered the place of magic refining were ruthlessly massacred.\n\nHow many warriors who tried to explore in the Land of Alchemy have become their prey.",
   "bestItemsDrop": [],
   "mobs": [],

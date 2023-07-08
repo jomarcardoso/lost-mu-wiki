@@ -1,9 +1,9 @@
 {
   "key": "KALIMA",
   "name": "Kalima",
-  "img": "public/img/maps/kalima/kalima-3d.jpg",
-  "thumb": "public/img/maps/kalima/kalima-3d.jpg",
-  "banner": "public/img/events/lost-kalima/lost-kalima-portal.jpg",
+  "img": "./img/kalima-3d.jpg",
+  "thumb": "./img/kalima-3d.jpg",
+  "banner": "./img/lost-kalima-portal.jpg",
   "version": "0.99",
   "bestItemsDrop": [],
   "order": 8,

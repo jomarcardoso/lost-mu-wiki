@@ -2,9 +2,9 @@
   "$schema": "../map.schema.json",
   "key": "ATLANS",
   "name": "Atlans",
-  "img": "public/img/maps/atlans/atlans.webp",
-  "banner": "public/img/maps/atlans/atlans-banner.jpg",
-  "thumb": "public/img/maps/atlans/atlans-3d.jpg",
+  "img": "./img/atlans.webp",
+  "banner": "./img/atlans-banner.jpg",
+  "thumb": "./img/atlans-3d.jpg",
 
   "mobs": [
     "BAHAMUT",

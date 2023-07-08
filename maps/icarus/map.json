@@ -1,8 +1,8 @@
 {
   "key": "ICARUS",
   "name": "Icarus",
-  "img": "public/img/maps/icarus/icarus.webp",
-  "thumb": "public/img/maps/icarus/icarus-3d.jpg",
+  "img": "./img/icarus.webp",
+  "thumb": "./img/icarus-3d.jpg",
   "mobs": [
     "ALQUAMOS",
     "MEGA_CRUST",

@@ -1,9 +1,9 @@
 {
   "key": "LORENCIA",
   "name": "Lorencia",
-  "img": "public/img/maps/lorencia/lorencia.webp",
-  "banner": "public/img/maps/lorencia/lorencia-banner.jpg",
-  "thumb": "public/img/maps/lorencia/lorencia-3d.jpg",
+  "img": "./img/lorencia.webp",
+  "banner": "./img/lorencia-banner.jpg",
+  "thumb": "./img/lorencia-3d.jpg",
   "version": "0.1",
   "mobs": [
     "SPIDER",

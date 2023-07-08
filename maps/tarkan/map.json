@@ -1,9 +1,9 @@
 {
   "key": "TARKAN",
   "name": "Tarkan",
-  "img": "public/img/maps/tarkan/tarkan.webp",
-  "banner": "public/img/maps/tarkan/tarkan-banner.jpg",
-  "thumb": "public/img/maps/tarkan/tarkan-3d.jpg",
+  "img": "./img/tarkan.webp",
+  "banner": "./img/tarkan-banner.jpg",
+  "thumb": "./img/tarkan-3d.jpg",
   "mobsDescription": "Tarkan where abandoned creatures live. All kinds of monsters suffering from hunger are roaming around, and Kanturu's guards are watching.",
   "mobs": [
     "MUTANT",

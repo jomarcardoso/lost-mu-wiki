@@ -1,9 +1,9 @@
 {
   "key": "DUNGEON",
   "name": "Dungeon",
-  "img": "public/img/maps/dungeon/dungeon.webp",
-  "banner": "public/img/maps/dungeon/dungeon-banner.jpg",
-  "thumb": "public/img/maps/dungeon/dungeon-3d.jpg",
+  "img": "./img/dungeon.webp",
+  "banner": "./img/dungeon-banner.jpg",
+  "thumb": "./img/dungeon-3d.jpg",
   "version": "0.2",
   "mobsDescription": "There are different mobs that you can find in Dungeon Map. Usually these are medium level mobs ranging from Level 19 to Level 55 mobs.",
   "mobs": [

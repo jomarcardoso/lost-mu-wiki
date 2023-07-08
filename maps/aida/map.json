@@ -1,8 +1,8 @@
 {
   "key": "AIDA",
   "name": "Aida",
-  "img": "public/img/maps/aida/aida.webp",
-  "thumb": "public/img/maps/aida/aida-3d.jpg",
+  "img": "./img/aida.webp",
+  "thumb": "./img/aida-3d.jpg",
   "mobs": [
     "DEATH_TREE",
     "FOREST_ORC",

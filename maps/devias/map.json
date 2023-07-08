@@ -1,9 +1,9 @@
 {
   "key": "DEVIAS",
   "name": "Devias",
-  "img": "public/img/maps/devias/devias.webp",
-  "banner": "public/img/maps/devias/devias-banner.jpg",
-  "thumb": "public/img/maps/devias/devias-3d.jpg",
+  "img": "./img/devias.webp",
+  "banner": "./img/devias-banner.jpg",
+  "thumb": "./img/devias-3d.jpg",
   "version": "0.2",
   "mobsDescription": "There are different monsters that you can find in Devias Map. Usually these are medium level monsters ranging from Level 20 to Level 52 monsters.",
   "mobs": [
