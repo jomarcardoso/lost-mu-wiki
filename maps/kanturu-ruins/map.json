@@ -1,0 +1,21 @@
+{
+  "key": "KANTURU_RUINS",
+  "name": "Kanturu Ruins",
+  "img": "public/img/maps/kanturu-ruins/kanturu-ruins.webp",
+  "thumb": "public/img/maps/kanturu-ruins/kanturu-ruins-3d.jpg",
+  "mobs": [
+    "SPLINTER_WOLF",
+    "IRON_RIDER",
+    "SATYROS",
+    "BLADE_HUNTER",
+    "KENTAUROS",
+    "GIGANTIS",
+    "BERSERKER",
+    "GENOCIDER"
+  ],
+  "spots": [{ "x": 180, "y": 170, "quantity": 4, "quality": "good", "areaAttackNeeded": false }],
+  "bestItemsDrop": [],
+  "order": 20,
+  "version": "2.0",
+  "wallpapers": []
+}

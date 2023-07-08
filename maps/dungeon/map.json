@@ -1,0 +1,27 @@
+{
+  "key": "DUNGEON",
+  "name": "Dungeon",
+  "img": "public/img/maps/dungeon/dungeon.webp",
+  "banner": "public/img/maps/dungeon/dungeon-banner.jpg",
+  "thumb": "public/img/maps/dungeon/dungeon-3d.jpg",
+  "version": "0.2",
+  "mobsDescription": "There are different mobs that you can find in Dungeon Map. Usually these are medium level mobs ranging from Level 19 to Level 55 mobs.",
+  "mobs": [
+    "SKELETON",
+    "LARVA",
+    "CYCLOPS",
+    "GHOST",
+    "SKELETON_ARCHER",
+    "HELL_HOUND",
+    "HELL_SPIDER",
+    "CHIEF_SKELETON_WARRIOR",
+    "THUNDER_LICH",
+    "POISON_BULL_FIGHTER",
+    "DARK_KNIGHT",
+    "GORGON"
+  ],
+  "spots": [],
+  "bestItemsDrop": [],
+  "order": 4,
+  "wallpapers": []
+}

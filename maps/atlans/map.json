@@ -1,71 +1,23 @@
 {
   "$schema": "../map.schema.json",
-  "key": "CRYWOLF",
-  "name": "Crywolf",
-  "img": "public/img/maps/crywolf/crywolf.webp",
-  "thumb": "public/img/maps/crywolf/crywolf-3d.jpg",
-  "description": "",
+  "key": "ATLANS",
+  "name": "Atlans",
+  "img": "public/img/maps/atlans/atlans.webp",
+  "banner": "public/img/maps/atlans/atlans-banner.jpg",
+  "thumb": "public/img/maps/atlans/atlans-3d.jpg",
+
   "mobs": [
-    "LANCE_SCOUT",
-    "HAMMER_SCOUT",
-    "BOW_SCOUT",
-    "WEREWOLF",
-    "SCOUT_HERO",
-    "WEREWOLF_HERO",
-    "BALRAM",
-    "SORAM",
-    "DARK_ELF",
-    "BALGASS"
+    "BAHAMUT",
+    "VEPAR",
+    "VALKYRIE",
+    "GREAT_BAHAMUT",
+    "SILVER_VALKYRIE",
+    "LIZARD_KING",
+    "HYDRA"
   ],
   "spots": [],
   "bestItemsDrop": [],
-  "order": 20,
-  "version": "1.00",
-  "wallpapers": [
-    {
-      "src": "./img/wallpapers/038_1280.jpg",
-      "alt": "",
-      "title": "Balgass"
-    },
-    {
-      "src": "./img/wallpapers/039_1280.jpg",
-      "alt": "",
-      "title": "Dark Elf"
-    },
-    {
-      "src": "./img/wallpapers/040_1280.jpg",
-      "alt": "",
-      "title": "Soram"
-    },
-    {
-      "src": "./img/wallpapers/041_1280.jpg",
-      "alt": "",
-      "title": "Death Spirit"
-    },
-    {
-      "src": "./img/wallpapers/042_1280.jpg",
-      "alt": "",
-      "title": "Balram"
-    },
-    {
-      "src": "./img/wallpapers/043_1280.jpg",
-      "alt": "",
-      "title": "Werewolf"
-    },
-    {
-      "src": "./img/wallpapers/044_1280.jpg",
-      "alt": "",
-      "title": "Scouter"
-    },
-    {
-      "src": "./img/wallpapers/045_1280.jpg",
-      "alt": "",
-      "title": "Scouter"
-    },
-    {
-      "src": "./img/wallpapers/046_1280.jpg",
-      "alt": "",
-      "title": "Scouter"
-    }
-  ]
+  "order": 6,
+  "version": "0.64",
+  "wallpapers": []
 }

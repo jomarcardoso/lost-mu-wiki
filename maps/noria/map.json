@@ -1,0 +1,24 @@
+{
+  "key": "NORIA",
+  "name": "Noria",
+  "img": "public/img/maps/noria/noria.webp",
+  "banner": "public/img/maps/noria/noria-banner.jpg",
+  "thumb": "public/img/maps/noria/noria-3d.jpg",
+  "version": "0.34",
+  "mobsDescription": "There are different monsters that you can find in Noria Map. Usually these are low level monsters ranging from Level 3 to Level 18 monsters.",
+  "mobs": [
+    "SPIDER",
+    "GOBLIN",
+    "CHAIN_SCORPION",
+    "ELITE_GOBLIN",
+    "BEETLE_MONSTER",
+    "HUNTER",
+    "FOREST_MONSTER",
+    "AGON",
+    "STONE_GOLEM"
+  ],
+  "spots": [],
+  "bestItemsDrop": [],
+  "order": 2,
+  "wallpapers": []
+}

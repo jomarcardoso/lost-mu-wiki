@@ -1,0 +1,22 @@
+{
+  "key": "AIDA",
+  "name": "Aida",
+  "img": "public/img/maps/aida/aida.webp",
+  "thumb": "public/img/maps/aida/aida-3d.jpg",
+  "mobs": [
+    "DEATH_TREE",
+    "FOREST_ORC",
+    "DEATH_RIDER",
+    "BLUE_GOLEM",
+    "WITCH_QUEEN",
+    "BLOODY_DEATH_RIDER",
+    "BLOODY_GOLEM",
+    "BLOODY_WITCH_QUEEN",
+    "HELL_MAINE"
+  ],
+  "spots": [],
+  "bestItemsDrop": [],
+  "order": 20,
+  "version": "1.00",
+  "wallpapers": []
+}

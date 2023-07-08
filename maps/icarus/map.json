@@ -1,0 +1,21 @@
+{
+  "key": "ICARUS",
+  "name": "Icarus",
+  "img": "public/img/maps/icarus/icarus.webp",
+  "thumb": "public/img/maps/icarus/icarus-3d.jpg",
+  "mobs": [
+    "ALQUAMOS",
+    "MEGA_CRUST",
+    "QUEEN_RAINIER",
+    "DRAKAN",
+    "ALPHA_CRUST",
+    "PHANTOM_KNIGHT",
+    "GREAT_DRAKAN",
+    "PHOENIX_OF_DARKNESS",
+    "GOLDEN_MEGA_CRUST"
+  ],
+  "bestItemsDrop": [],
+  "order": 8,
+  "version": "0.94",
+  "wallpapers": []
+}

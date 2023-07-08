@@ -1,0 +1,21 @@
+{
+  "key": "KALIMA",
+  "name": "Kalima",
+  "img": "public/img/maps/kalima/kalima-3d.jpg",
+  "thumb": "public/img/maps/kalima/kalima-3d.jpg",
+  "banner": "public/img/events/lost-kalima/lost-kalima-portal.jpg",
+  "version": "0.99",
+  "bestItemsDrop": [],
+  "order": 8,
+  "mobs": [
+    "AEGIS",
+    "ROGUE_CENTURION",
+    "BLOOD_SOLDIER",
+    "DEATH_ANGEL",
+    "NECRON",
+    "DEATH_CENTURION",
+    "SCHRIKER",
+    "ILLUSION_OF_KUNDUN"
+  ],
+  "wallpapers": []
+}

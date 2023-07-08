@@ -1,0 +1,22 @@
+{
+  "key": "TARKAN",
+  "name": "Tarkan",
+  "img": "public/img/maps/tarkan/tarkan.webp",
+  "banner": "public/img/maps/tarkan/tarkan-banner.jpg",
+  "thumb": "public/img/maps/tarkan/tarkan-3d.jpg",
+  "mobsDescription": "Tarkan where abandoned creatures live. All kinds of monsters suffering from hunger are roaming around, and Kanturu's guards are watching.",
+  "mobs": [
+    "MUTANT",
+    "BLOODY_WOLF",
+    "IRON_WHEEL",
+    "TANTALOS",
+    "BEAM_KNIGHT",
+    "ZAIKAN",
+    "DEATH_BEAM_KNIGHT"
+  ],
+  "spots": [],
+  "bestItemsDrop": [],
+  "order": 7,
+  "version": "0.84",
+  "wallpapers": []
+}

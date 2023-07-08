@@ -1,0 +1,26 @@
+{
+  "key": "DEVIAS",
+  "name": "Devias",
+  "img": "public/img/maps/devias/devias.webp",
+  "banner": "public/img/maps/devias/devias-banner.jpg",
+  "thumb": "public/img/maps/devias/devias-3d.jpg",
+  "version": "0.2",
+  "mobsDescription": "There are different monsters that you can find in Devias Map. Usually these are medium level monsters ranging from Level 20 to Level 52 monsters.",
+  "mobs": [
+    "WORM",
+    "ICE_MONSTER",
+    "HOMMERD",
+    "ASSASSIN",
+    "YETI",
+    "ELITE_YETI",
+    "MOON_RABBIT",
+    "ICE_QUEEN",
+    "GOLDEN_BUDGE_DRAGON",
+    "RED_DRAGON",
+    "GOLDEN_TITAN"
+  ],
+  "spots": [],
+  "bestItemsDrop": [],
+  "order": 3,
+  "wallpapers": []
+}

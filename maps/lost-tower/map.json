@@ -1,0 +1,23 @@
+{
+  "key": "LOST_TOWER",
+  "name": "Lost Tower",
+  "img": "public/img/maps/lost-tower/lost-tower.webp",
+  "banner": "public/img/maps/lost-tower/lost-tower-banner.jpg",
+  "thumb": "public/img/maps/lost-tower/lost-tower-3d.jpg",
+  "mobsDescription": "Characters level 80 and above may move to the Lost Tower but must be level 90 and above to warp there. A level over 80 is required for the second floor, 90 for the third floor, 90 for the fourth floor, 100 for the 5th floor, 100 for the 6th floor and 110 for the 7th floor.",
+  "mobs": [
+    "SHADOW",
+    "POISON_SHADOW",
+    "CURSED_WIZARD",
+    "DEATH_COW",
+    "DEVIL",
+    "DEATH_KNIGHT",
+    "DEATH_GORGON",
+    "BALROG"
+  ],
+  "spots": [],
+  "bestItemsDrop": [],
+  "order": 5,
+  "version": "0.45",
+  "wallpapers": []
+}
