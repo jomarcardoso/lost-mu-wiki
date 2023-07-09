@@ -1,0 +1,44 @@
+{
+  "allOf": [{ "$ref": "./item.schema.json" }],
+  "type": "object",
+  "title": "Weapon",
+  "description": "Weapon attributes.",
+  "properties": {
+    "attackSpeed": {
+      "type": "integer"
+    },
+    "skill": {
+      "type": "integer"
+    },
+    "twoHands": {
+      "type": "boolean"
+    },
+    "absolute": {
+      "type": "boolean"
+    },
+    "ancientSetKey": {
+      "$ref": "./ancient-set-key.schema.json"
+    },
+    "normalLevels": {
+      "type": "array",
+      "items": {
+        "required": [],
+        "$ref": "./weapon.schema.json"
+      }
+    },
+    "excellentLevels": {
+      "type": "array",
+      "items": {
+        "required": [],
+        "$ref": "./weapon.schema.json"
+      }
+    },
+    "ancientLevels": {
+      "type": "array",
+      "items": {
+        "required": [],
+        "$ref": "./weapon.schema.json"
+      }
+    }
+  }
+}

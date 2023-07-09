@@ -1,0 +1,239 @@
+{
+  "$schema": "../scepter.schema.json",
+  "key": "SHINING_SCEPTER",
+  "name": "Shining Scepter",
+  "description": "A staff with a golden skeleton, so named because it emits a light so brilliant that it hurts the eyes.",
+  "img": "public/img/items/scepters/shining-scepter.webp",
+  "type": "SCEPTER",
+  "attackSpeed": 40,
+  "version": "2.0",
+  "relatedItemKeys": ["GLORIOUS"],
+  "normalLevels": [
+    {
+      "minDamage": 99,
+      "maxDamage": 111,
+      "requiredStrength": 376,
+      "requiredAgility": 92,
+      "increasePetDamage": 30
+    },
+    {
+      "minDamage": 102,
+      "maxDamage": 114,
+      "requiredStrength": 386,
+      "requiredAgility": 94,
+      "increasePetDamage": 31
+    },
+    {
+      "minDamage": 105,
+      "maxDamage": 117,
+      "requiredStrength": 395,
+      "requiredAgility": 96,
+      "increasePetDamage": 33
+    },
+    {
+      "minDamage": 108,
+      "maxDamage": 120,
+      "requiredStrength": 405,
+      "requiredAgility": 98,
+      "increasePetDamage": 34
+    },
+    {
+      "minDamage": 111,
+      "maxDamage": 123,
+      "requiredStrength": 415,
+      "requiredAgility": 100,
+      "increasePetDamage": 36
+    },
+    {
+      "minDamage": 114,
+      "maxDamage": 126,
+      "requiredStrength": 425,
+      "requiredAgility": 102,
+      "increasePetDamage": 37
+    },
+    {
+      "minDamage": 117,
+      "maxDamage": 129,
+      "requiredStrength": 434,
+      "requiredAgility": 104,
+      "increasePetDamage": 39
+    },
+    {
+      "minDamage": 120,
+      "maxDamage": 132,
+      "requiredStrength": 444,
+      "requiredAgility": 106,
+      "increasePetDamage": 40
+    },
+    {
+      "minDamage": 123,
+      "maxDamage": 135,
+      "requiredStrength": 454,
+      "requiredAgility": 108,
+      "increasePetDamage": 42
+    },
+    {
+      "minDamage": 126,
+      "maxDamage": 138,
+      "requiredStrength": 463,
+      "requiredAgility": 110,
+      "increasePetDamage": 43
+    },
+    {
+      "minDamage": 130,
+      "maxDamage": 142,
+      "requiredStrength": 473,
+      "requiredAgility": 112,
+      "increasePetDamage": 45
+    },
+    {
+      "minDamage": 135,
+      "maxDamage": 147,
+      "requiredStrength": 483,
+      "requiredAgility": 114,
+      "increasePetDamage": 48
+    },
+    {
+      "minDamage": 141,
+      "maxDamage": 153,
+      "requiredStrength": 493,
+      "requiredAgility": 116,
+      "increasePetDamage": 51
+    },
+    {
+      "minDamage": 148,
+      "maxDamage": 160,
+      "requiredStrength": 502,
+      "requiredAgility": 118,
+      "increasePetDamage": 54
+    },
+    {
+      "minDamage": 156,
+      "maxDamage": 168,
+      "requiredStrength": 512,
+      "requiredAgility": 120,
+      "increasePetDamage": 58
+    },
+    {
+      "minDamage": 165,
+      "maxDamage": 177,
+      "requiredStrength": 522,
+      "requiredAgility": 122,
+      "increasePetDamage": 63
+    }
+  ],
+  "excellentLevels": [
+    {
+      "minDamage": 126,
+      "maxDamage": 138,
+      "requiredStrength": 457,
+      "requiredAgility": 109,
+      "increasePetDamage": 39
+    },
+    {
+      "minDamage": 129,
+      "maxDamage": 141,
+      "requiredStrength": 467,
+      "requiredAgility": 111,
+      "increasePetDamage": 40
+    },
+    {
+      "minDamage": 132,
+      "maxDamage": 144,
+      "requiredStrength": 476,
+      "requiredAgility": 113,
+      "increasePetDamage": 42
+    },
+    {
+      "minDamage": 135,
+      "maxDamage": 147,
+      "requiredStrength": 486,
+      "requiredAgility": 115,
+      "increasePetDamage": 43
+    },
+    {
+      "minDamage": 138,
+      "maxDamage": 150,
+      "requiredStrength": 496,
+      "requiredAgility": 117,
+      "increasePetDamage": 45
+    },
+    {
+      "minDamage": 141,
+      "maxDamage": 153,
+      "requiredStrength": 506,
+      "requiredAgility": 119,
+      "increasePetDamage": 46
+    },
+    {
+      "minDamage": 144,
+      "maxDamage": 156,
+      "requiredStrength": 515,
+      "requiredAgility": 120,
+      "increasePetDamage": 48
+    },
+    {
+      "minDamage": 147,
+      "maxDamage": 159,
+      "requiredStrength": 525,
+      "requiredAgility": 122,
+      "increasePetDamage": 49
+    },
+    {
+      "minDamage": 150,
+      "maxDamage": 162,
+      "requiredStrength": 535,
+      "requiredAgility": 124,
+      "increasePetDamage": 51
+    },
+    {
+      "minDamage": 153,
+      "maxDamage": 165,
+      "requiredStrength": 544,
+      "requiredAgility": 126,
+      "increasePetDamage": 52
+    },
+    {
+      "minDamage": 157,
+      "maxDamage": 169,
+      "requiredStrength": 554,
+      "requiredAgility": 128,
+      "increasePetDamage": 54
+    },
+    {
+      "minDamage": 162,
+      "maxDamage": 174,
+      "requiredStrength": 564,
+      "requiredAgility": 130,
+      "increasePetDamage": 57
+    },
+    {
+      "minDamage": 168,
+      "maxDamage": 180,
+      "requiredStrength": 574,
+      "requiredAgility": 132,
+      "increasePetDamage": 60
+    },
+    {
+      "minDamage": 175,
+      "maxDamage": 187,
+      "requiredStrength": 583,
+      "requiredAgility": 134,
+      "increasePetDamage": 63
+    },
+    {
+      "minDamage": 183,
+      "maxDamage": 195,
+      "requiredStrength": 593,
+      "requiredAgility": 136,
+      "increasePetDamage": 67
+    },
+    {
+      "minDamage": 192,
+      "maxDamage": 204,
+      "requiredStrength": 603,
+      "requiredAgility": 138,
+      "increasePetDamage": 72
+    }
+  ]
+}

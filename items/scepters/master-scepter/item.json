@@ -1,0 +1,238 @@
+{
+  "$schema": "../scepter.schema.json",
+  "key": "MASTER_SCEPTER",
+  "name": "Master Scepter",
+  "img": "public/img/items/scepters/master-scepter.webp",
+  "description": "When the Holy Teacher grows to a certain level, he can use the Scepter of Conquest. For the holy teachers in their youth, this scepter has a lot to study, and it is a weapon that you must master to become a qualified leader. Most importantly, it is said that when the Holy Teacher truly grasps the subtleties of the Scepter of Conquest, he will find that it is the most powerful weapon and the true embodiment of the king's will!",
+  "type": "SCEPTER",
+  "attackSpeed": 45,
+  "version": "0.99",
+  "normalLevels": [
+    {
+      "minDamage": 57,
+      "maxDamage": 68,
+      "requiredStrength": 207,
+      "requiredAgility": 58,
+      "increasePetDamage": 10
+    },
+    {
+      "minDamage": 60,
+      "maxDamage": 71,
+      "requiredStrength": 215,
+      "requiredAgility": 60,
+      "increasePetDamage": 11
+    },
+    {
+      "minDamage": 63,
+      "maxDamage": 74,
+      "requiredStrength": 223,
+      "requiredAgility": 62,
+      "increasePetDamage": 13
+    },
+    {
+      "minDamage": 66,
+      "maxDamage": 77,
+      "requiredStrength": 231,
+      "requiredAgility": 63,
+      "increasePetDamage": 14
+    },
+    {
+      "minDamage": 69,
+      "maxDamage": 80,
+      "requiredStrength": 239,
+      "requiredAgility": 65,
+      "increasePetDamage": 16
+    },
+    {
+      "minDamage": 72,
+      "maxDamage": 83,
+      "requiredStrength": 247,
+      "requiredAgility": 66,
+      "increasePetDamage": 17
+    },
+    {
+      "minDamage": 75,
+      "maxDamage": 86,
+      "requiredStrength": 254,
+      "requiredAgility": 68,
+      "increasePetDamage": 19
+    },
+    {
+      "minDamage": 78,
+      "maxDamage": 89,
+      "requiredStrength": 262,
+      "requiredAgility": 70,
+      "increasePetDamage": 20
+    },
+    {
+      "minDamage": 81,
+      "maxDamage": 92,
+      "requiredStrength": 270,
+      "requiredAgility": 71,
+      "increasePetDamage": 22
+    },
+    {
+      "minDamage": 84,
+      "maxDamage": 95,
+      "requiredStrength": 278,
+      "requiredAgility": 73,
+      "increasePetDamage": 23
+    },
+    {
+      "minDamage": 88,
+      "maxDamage": 99,
+      "requiredStrength": 286,
+      "requiredAgility": 75,
+      "increasePetDamage": 25
+    },
+    {
+      "minDamage": 93,
+      "maxDamage": 104,
+      "requiredStrength": 294,
+      "requiredAgility": 76,
+      "increasePetDamage": 28
+    },
+    {
+      "minDamage": 99,
+      "maxDamage": 110,
+      "requiredStrength": 301,
+      "requiredAgility": 78,
+      "increasePetDamage": 31
+    },
+    {
+      "minDamage": 106,
+      "maxDamage": 117,
+      "requiredStrength": 309,
+      "requiredAgility": 79,
+      "increasePetDamage": 34
+    },
+    {
+      "minDamage": 114,
+      "maxDamage": 125,
+      "requiredStrength": 317,
+      "requiredAgility": 81,
+      "increasePetDamage": 38
+    },
+    {
+      "minDamage": 123,
+      "maxDamage": 134,
+      "requiredStrength": 325,
+      "requiredAgility": 83,
+      "increasePetDamage": 43
+    }
+  ],
+  "excellentLevels": [
+    {
+      "minDamage": 81,
+      "maxDamage": 92,
+      "requiredStrength": 273,
+      "requiredAgility": 72,
+      "increasePetDamage": 15
+    },
+    {
+      "minDamage": 84,
+      "maxDamage": 95,
+      "requiredStrength": 281,
+      "requiredAgility": 74,
+      "increasePetDamage": 17
+    },
+    {
+      "minDamage": 87,
+      "maxDamage": 98,
+      "requiredStrength": 288,
+      "requiredAgility": 75,
+      "increasePetDamage": 18
+    },
+    {
+      "minDamage": 90,
+      "maxDamage": 101,
+      "requiredStrength": 296,
+      "requiredAgility": 77,
+      "increasePetDamage": 20
+    },
+    {
+      "minDamage": 93,
+      "maxDamage": 104,
+      "requiredStrength": 304,
+      "requiredAgility": 78,
+      "increasePetDamage": 21
+    },
+    {
+      "minDamage": 96,
+      "maxDamage": 107,
+      "requiredStrength": 312,
+      "requiredAgility": 80,
+      "increasePetDamage": 23
+    },
+    {
+      "minDamage": 99,
+      "maxDamage": 110,
+      "requiredStrength": 320,
+      "requiredAgility": 82,
+      "increasePetDamage": 24
+    },
+    {
+      "minDamage": 102,
+      "maxDamage": 113,
+      "requiredStrength": 327,
+      "requiredAgility": 83,
+      "increasePetDamage": 26
+    },
+    {
+      "minDamage": 105,
+      "maxDamage": 116,
+      "requiredStrength": 335,
+      "requiredAgility": 85,
+      "increasePetDamage": 27
+    },
+    {
+      "minDamage": 108,
+      "maxDamage": 119,
+      "requiredStrength": 343,
+      "requiredAgility": 86,
+      "increasePetDamage": 29
+    },
+    {
+      "minDamage": 112,
+      "maxDamage": 123,
+      "requiredStrength": 351,
+      "requiredAgility": 88,
+      "increasePetDamage": 31
+    },
+    {
+      "minDamage": 117,
+      "maxDamage": 128,
+      "requiredStrength": 359,
+      "requiredAgility": 90,
+      "increasePetDamage": 33
+    },
+    {
+      "minDamage": 123,
+      "maxDamage": 134,
+      "requiredStrength": 367,
+      "requiredAgility": 91,
+      "increasePetDamage": 36
+    },
+    {
+      "minDamage": 130,
+      "maxDamage": 141,
+      "requiredStrength": 374,
+      "requiredAgility": 93,
+      "increasePetDamage": 40
+    },
+    {
+      "minDamage": 138,
+      "maxDamage": 149,
+      "requiredStrength": 382,
+      "requiredAgility": 95,
+      "increasePetDamage": 44
+    },
+    {
+      "minDamage": 147,
+      "maxDamage": 158,
+      "requiredStrength": 390,
+      "requiredAgility": 96,
+      "increasePetDamage": 48
+    }
+  ]
+}

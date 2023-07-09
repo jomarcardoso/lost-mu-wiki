@@ -1,0 +1,32 @@
+{
+  "allOf": [{ "$ref": "../weapon.schema.json" }],
+  "type": "object",
+  "title": "Scepter",
+  "description": "Scepter weapon attributes",
+  "properties": {
+    "increasePetDamage": {
+      "type": "integer"
+    },
+    "normalLevels": {
+      "type": "array",
+      "items": {
+        "required": [],
+        "$ref": "./scepter.schema.json"
+      }
+    },
+    "excellentLevels": {
+      "type": "array",
+      "items": {
+        "required": [],
+        "$ref": "./scepter.schema.json"
+      }
+    },
+    "ancientLevels": {
+      "type": "array",
+      "items": {
+        "required": [],
+        "$ref": "./scepter.schema.json"
+      }
+    }
+  }
+}

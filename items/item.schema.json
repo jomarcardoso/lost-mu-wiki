@@ -14,6 +14,5 @@
     "version": {
       "$ref": "../version.schema.json"
     }
-  },
-  "required": ["key", "name", "img"]
+  }
 }
