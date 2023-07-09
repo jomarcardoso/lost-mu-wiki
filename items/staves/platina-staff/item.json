@@ -1,0 +1,240 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "PLATINA_STAFF",
+  "name": "Platina Staff (Platina Wing Staff)",
+  "description": "A staff that visualizes the Archangel's silvery wings. There are magic crystals on the two intertwined rods that can improve the magic of the user, and inside the crystals are blue and black mysterious powers that are completely opposite to each other.",
+  "img": "public/img/items/staves/platina-staff.webp",
+  "durability": 65,
+  "requiredCharacterKeys": ["DARK_WIZARD"],
+  "type": "STAFF",
+  "attackSpeed": 30,
+  "version": "2.0",
+  "normalLevels": [
+    {
+      "minDamage": 51,
+      "maxDamage": 53,
+      "requiredStrength": 185,
+      "requiredAgility": 72,
+      "increaseMagic": 60
+    },
+    {
+      "minDamage": 54,
+      "maxDamage": 56,
+      "requiredStrength": 189,
+      "requiredAgility": 74,
+      "increaseMagic": 63
+    },
+    {
+      "minDamage": 57,
+      "maxDamage": 59,
+      "requiredStrength": 194,
+      "requiredAgility": 75,
+      "increaseMagic": 67
+    },
+    {
+      "minDamage": 60,
+      "maxDamage": 62,
+      "requiredStrength": 198,
+      "requiredAgility": 77,
+      "increaseMagic": 70
+    },
+    {
+      "minDamage": 63,
+      "maxDamage": 65,
+      "requiredStrength": 203,
+      "requiredAgility": 78,
+      "increaseMagic": 74
+    },
+    {
+      "minDamage": 66,
+      "maxDamage": 68,
+      "requiredStrength": 207,
+      "requiredAgility": 80,
+      "increaseMagic": 77
+    },
+    {
+      "minDamage": 69,
+      "maxDamage": 71,
+      "requiredStrength": 212,
+      "requiredAgility": 81,
+      "increaseMagic": 81
+    },
+    {
+      "minDamage": 72,
+      "maxDamage": 74,
+      "requiredStrength": 216,
+      "requiredAgility": 82,
+      "increaseMagic": 84
+    },
+    {
+      "minDamage": 75,
+      "maxDamage": 77,
+      "requiredStrength": 221,
+      "requiredAgility": 84,
+      "increaseMagic": 88
+    },
+    {
+      "minDamage": 78,
+      "maxDamage": 80,
+      "requiredStrength": 225,
+      "requiredAgility": 85,
+      "increaseMagic": 91
+    },
+    {
+      "minDamage": 82,
+      "maxDamage": 84,
+      "requiredStrength": 230,
+      "requiredAgility": 87,
+      "increaseMagic": 95
+    },
+    {
+      "minDamage": 87,
+      "maxDamage": 89,
+      "requiredStrength": 234,
+      "requiredAgility": 88,
+      "increaseMagic": 100
+    },
+    {
+      "minDamage": 93,
+      "maxDamage": 95,
+      "requiredStrength": 239,
+      "requiredAgility": 90,
+      "increaseMagic": 105
+    },
+    {
+      "minDamage": 100,
+      "maxDamage": 102,
+      "requiredStrength": 243,
+      "requiredAgility": 91,
+      "increaseMagic": 110
+    },
+    {
+      "minDamage": 108,
+      "maxDamage": 110,
+      "requiredStrength": 248,
+      "requiredAgility": 92,
+      "increaseMagic": 116
+    },
+    {
+      "minDamage": 117,
+      "maxDamage": 119,
+      "requiredStrength": 252,
+      "requiredAgility": 94,
+      "increaseMagic": 123
+    }
+  ],
+  "excellentLevels": [
+    {
+      "minDamage": 67,
+      "maxDamage": 69,
+      "requiredStrength": 222,
+      "requiredAgility": 84,
+      "increaseMagic": 76
+    },
+    {
+      "minDamage": 70,
+      "maxDamage": 72,
+      "requiredStrength": 227,
+      "requiredAgility": 86,
+      "increaseMagic": 79
+    },
+    {
+      "minDamage": 73,
+      "maxDamage": 75,
+      "requiredStrength": 231,
+      "requiredAgility": 87,
+      "increaseMagic": 83
+    },
+    {
+      "minDamage": 76,
+      "maxDamage": 78,
+      "requiredStrength": 236,
+      "requiredAgility": 89,
+      "increaseMagic": 86
+    },
+    {
+      "minDamage": 79,
+      "maxDamage": 81,
+      "requiredStrength": 240,
+      "requiredAgility": 90,
+      "increaseMagic": 90
+    },
+    {
+      "minDamage": 82,
+      "maxDamage": 84,
+      "requiredStrength": 245,
+      "requiredAgility": 92,
+      "increaseMagic": 93
+    },
+    {
+      "minDamage": 85,
+      "maxDamage": 87,
+      "requiredStrength": 249,
+      "requiredAgility": 93,
+      "increaseMagic": 97
+    },
+    {
+      "minDamage": 88,
+      "maxDamage": 90,
+      "requiredStrength": 254,
+      "requiredAgility": 94,
+      "increaseMagic": 100
+    },
+    {
+      "minDamage": 91,
+      "maxDamage": 93,
+      "requiredStrength": 258,
+      "requiredAgility": 96,
+      "increaseMagic": 104
+    },
+    {
+      "minDamage": 94,
+      "maxDamage": 96,
+      "requiredStrength": 263,
+      "requiredAgility": 97,
+      "increaseMagic": 107
+    },
+    {
+      "minDamage": 98,
+      "maxDamage": 100,
+      "requiredStrength": 267,
+      "requiredAgility": 99,
+      "increaseMagic": 111
+    },
+    {
+      "minDamage": 103,
+      "maxDamage": 105,
+      "requiredStrength": 272,
+      "requiredAgility": 100,
+      "increaseMagic": 116
+    },
+    {
+      "minDamage": 109,
+      "maxDamage": 111,
+      "requiredStrength": 276,
+      "requiredAgility": 102,
+      "increaseMagic": 121
+    },
+    {
+      "minDamage": 116,
+      "maxDamage": 118,
+      "requiredStrength": 281,
+      "requiredAgility": 103,
+      "increaseMagic": 126
+    },
+    {
+      "minDamage": 124,
+      "maxDamage": 126,
+      "requiredStrength": 285,
+      "requiredAgility": 104,
+      "increaseMagic": 132
+    },
+    {
+      "minDamage": 133,
+      "maxDamage": 135,
+      "requiredStrength": 290,
+      "requiredAgility": 106,
+      "increaseMagic": 139
+    }
+  ]
+}

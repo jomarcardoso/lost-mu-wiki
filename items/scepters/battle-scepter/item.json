@@ -1,5 +1,5 @@
 {
-  "$schema": "../../weapon.schema.json",
+  "$schema": "../scepter.schema.json",
   "key": "BATTLE_SCEPTER",
   "name": "Battle Scepter",
   "img": "public/img/items/scepters/battle-scepter.webp",

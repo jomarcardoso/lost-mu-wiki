@@ -1,0 +1,241 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "GRAND_VIPER_STAFF",
+  "name": "Grand Viper Staff",
+  "description": "The staff with the sacred power of the poisonous snake biregen generally emits a blue light, but if you look closely, you can find that the two ends of the staff are made to imitate the head and tail of a snake, and they have a slightly golden color.",
+  "img": "public/img/items/staves/grand-viper-staff.webp",
+  "durability": 65,
+  "requiredCharacterKeys": ["DARK_WIZARD", "MAGIC_GLADIATOR"],
+  "type": "STAFF",
+  "attackSpeed": 30,
+  "version": "1.00",
+  "relatedItemKeys": ["VENOM_MIST"],
+  "normalLevels": [
+    {
+      "minDamage": 66,
+      "maxDamage": 74,
+      "requiredStrength": 191,
+      "requiredAgility": 77,
+      "increaseMagic": 65
+    },
+    {
+      "minDamage": 69,
+      "maxDamage": 77,
+      "requiredStrength": 195,
+      "requiredAgility": 78,
+      "increaseMagic": 68
+    },
+    {
+      "minDamage": 72,
+      "maxDamage": 80,
+      "requiredStrength": 199,
+      "requiredAgility": 79,
+      "increaseMagic": 72
+    },
+    {
+      "minDamage": 75,
+      "maxDamage": 83,
+      "requiredStrength": 202,
+      "requiredAgility": 80,
+      "increaseMagic": 75
+    },
+    {
+      "minDamage": 78,
+      "maxDamage": 86,
+      "requiredStrength": 206,
+      "requiredAgility": 82,
+      "increaseMagic": 79
+    },
+    {
+      "minDamage": 81,
+      "maxDamage": 89,
+      "requiredStrength": 209,
+      "requiredAgility": 83,
+      "increaseMagic": 82
+    },
+    {
+      "minDamage": 84,
+      "maxDamage": 92,
+      "requiredStrength": 213,
+      "requiredAgility": 84,
+      "increaseMagic": 86
+    },
+    {
+      "minDamage": 87,
+      "maxDamage": 95,
+      "requiredStrength": 216,
+      "requiredAgility": 85,
+      "increaseMagic": 89
+    },
+    {
+      "minDamage": 90,
+      "maxDamage": 98,
+      "requiredStrength": 220,
+      "requiredAgility": 86,
+      "increaseMagic": 93
+    },
+    {
+      "minDamage": 93,
+      "maxDamage": 101,
+      "requiredStrength": 223,
+      "requiredAgility": 87,
+      "increaseMagic": 96
+    },
+    {
+      "minDamage": 97,
+      "maxDamage": 105,
+      "requiredStrength": 227,
+      "requiredAgility": 89,
+      "increaseMagic": 100
+    },
+    {
+      "minDamage": 102,
+      "maxDamage": 110,
+      "requiredStrength": 230,
+      "requiredAgility": 90,
+      "increaseMagic": 105
+    },
+    {
+      "minDamage": 108,
+      "maxDamage": 116,
+      "requiredStrength": 234,
+      "requiredAgility": 91,
+      "increaseMagic": 110
+    },
+    {
+      "minDamage": 115,
+      "maxDamage": 123,
+      "requiredStrength": 237,
+      "requiredAgility": 92,
+      "increaseMagic": 115
+    },
+    {
+      "minDamage": 123,
+      "maxDamage": 131,
+      "requiredStrength": 241,
+      "requiredAgility": 93,
+      "increaseMagic": 121
+    },
+    {
+      "minDamage": 132,
+      "maxDamage": 140,
+      "requiredStrength": 244,
+      "requiredAgility": 94,
+      "increaseMagic": 128
+    }
+  ],
+  "excellentLevels": [
+    {
+      "minDamage": 82,
+      "maxDamage": 90,
+      "requiredStrength": 221,
+      "requiredAgility": 87,
+      "increaseMagic": 78
+    },
+    {
+      "minDamage": 85,
+      "maxDamage": 93,
+      "requiredStrength": 224,
+      "requiredAgility": 88,
+      "increaseMagic": 82
+    },
+    {
+      "minDamage": 88,
+      "maxDamage": 96,
+      "requiredStrength": 228,
+      "requiredAgility": 89,
+      "increaseMagic": 85
+    },
+    {
+      "minDamage": 91,
+      "maxDamage": 99,
+      "requiredStrength": 231,
+      "requiredAgility": 90,
+      "increaseMagic": 89
+    },
+    {
+      "minDamage": 94,
+      "maxDamage": 102,
+      "requiredStrength": 235,
+      "requiredAgility": 91,
+      "increaseMagic": 92
+    },
+    {
+      "minDamage": 97,
+      "maxDamage": 105,
+      "requiredStrength": 238,
+      "requiredAgility": 92,
+      "increaseMagic": 96
+    },
+    {
+      "minDamage": 100,
+      "maxDamage": 108,
+      "requiredStrength": 242,
+      "requiredAgility": 94,
+      "increaseMagic": 99
+    },
+    {
+      "minDamage": 103,
+      "maxDamage": 111,
+      "requiredStrength": 245,
+      "requiredAgility": 95,
+      "increaseMagic": 103
+    },
+    {
+      "minDamage": 106,
+      "maxDamage": 114,
+      "requiredStrength": 249,
+      "requiredAgility": 96,
+      "increaseMagic": 106
+    },
+    {
+      "minDamage": 109,
+      "maxDamage": 117,
+      "requiredStrength": 252,
+      "requiredAgility": 97,
+      "increaseMagic": 110
+    },
+    {
+      "minDamage": 113,
+      "maxDamage": 121,
+      "requiredStrength": 256,
+      "requiredAgility": 98,
+      "increaseMagic": 114
+    },
+    {
+      "minDamage": 118,
+      "maxDamage": 126,
+      "requiredStrength": 259,
+      "requiredAgility": 99,
+      "increaseMagic": 118
+    },
+    {
+      "minDamage": 124,
+      "maxDamage": 132,
+      "requiredStrength": 263,
+      "requiredAgility": 101,
+      "increaseMagic": 123
+    },
+    {
+      "minDamage": 131,
+      "maxDamage": 139,
+      "requiredStrength": 266,
+      "requiredAgility": 102,
+      "increaseMagic": 129
+    },
+    {
+      "minDamage": 139,
+      "maxDamage": 147,
+      "requiredStrength": 270,
+      "requiredAgility": 103,
+      "increaseMagic": 135
+    },
+    {
+      "minDamage": 148,
+      "maxDamage": 156,
+      "requiredStrength": 273,
+      "requiredAgility": 104,
+      "increaseMagic": 141
+    }
+  ]
+}

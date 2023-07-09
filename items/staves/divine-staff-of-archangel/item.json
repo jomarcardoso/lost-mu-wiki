@@ -1,0 +1,125 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "DIVINE_STAFF_OF_ARCHANGEL",
+  "name": "Divine Staff of Archangel",
+  "img": "public/img/items/archangel-weapons/divine-staff-of-archangel.webp",
+  "attackSpeed": 30,
+  "type": "STAFF",
+  "alias": "Absolute Staff",
+  "absolute": true,
+  "group": "blood_castle",
+  "normalLevels": [
+    {
+      "minDamage": 153,
+      "maxDamage": 165,
+      "requiredStrength": 132,
+      "requiredAgility": 32,
+      "increaseMagic": 78
+    },
+    {
+      "minDamage": 156,
+      "maxDamage": 168,
+      "requiredStrength": 135,
+      "requiredAgility": 32,
+      "increaseMagic": 81
+    },
+    {
+      "minDamage": 159,
+      "maxDamage": 171,
+      "requiredStrength": 138,
+      "requiredAgility": 33,
+      "increaseMagic": 85
+    },
+    {
+      "minDamage": 162,
+      "maxDamage": 174,
+      "requiredStrength": 142,
+      "requiredAgility": 33,
+      "increaseMagic": 88
+    },
+    {
+      "minDamage": 165,
+      "maxDamage": 177,
+      "requiredStrength": 145,
+      "requiredAgility": 33,
+      "increaseMagic": 92
+    },
+    {
+      "minDamage": 168,
+      "maxDamage": 180,
+      "requiredStrength": 148,
+      "requiredAgility": 34,
+      "increaseMagic": 95
+    },
+    {
+      "minDamage": 171,
+      "maxDamage": 183,
+      "requiredStrength": 151,
+      "requiredAgility": 34,
+      "increaseMagic": 99
+    },
+    {
+      "minDamage": 174,
+      "maxDamage": 186,
+      "requiredStrength": 155,
+      "requiredAgility": 35,
+      "increaseMagic": 102
+    },
+    {
+      "minDamage": 177,
+      "maxDamage": 189,
+      "requiredStrength": 158,
+      "requiredAgility": 35,
+      "increaseMagic": 106
+    },
+    {
+      "minDamage": 180,
+      "maxDamage": 192,
+      "requiredStrength": 161,
+      "requiredAgility": 35,
+      "increaseMagic": 109
+    },
+    {
+      "minDamage": 184,
+      "maxDamage": 196,
+      "requiredStrength": 164,
+      "requiredAgility": 36,
+      "increaseMagic": 113
+    },
+    {
+      "minDamage": 189,
+      "maxDamage": 201,
+      "requiredStrength": 167,
+      "requiredAgility": 36,
+      "increaseMagic": 118
+    },
+    {
+      "minDamage": 195,
+      "maxDamage": 207,
+      "requiredStrength": 171,
+      "requiredAgility": 36,
+      "increaseMagic": 123
+    },
+    {
+      "minDamage": 202,
+      "maxDamage": 214,
+      "requiredStrength": 174,
+      "requiredAgility": 37,
+      "increaseMagic": 128
+    },
+    {
+      "minDamage": 210,
+      "maxDamage": 222,
+      "requiredStrength": 177,
+      "requiredAgility": 37,
+      "increaseMagic": 134
+    },
+    {
+      "minDamage": 219,
+      "maxDamage": 231,
+      "requiredStrength": 180,
+      "requiredAgility": 37,
+      "increaseMagic": 141
+    }
+  ]
+}

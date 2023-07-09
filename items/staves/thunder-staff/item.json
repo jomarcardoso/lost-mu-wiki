@@ -1,0 +1,239 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "THUNDER_STAFF",
+  "name": "Thunder Staff",
+  "img": "public/img/items/staves/thunder-staff.webp",
+  "durability": 65,
+  "requiredCharacterKeys": ["DARK_WIZARD", "MAGIC_GLADIATOR"],
+  "type": "STAFF",
+  "attackSpeed": 25,
+  "twoHands": true,
+  "normalLevels": [
+    {
+      "minDamage": 23,
+      "maxDamage": 25,
+      "requiredStrength": 70,
+      "requiredAgility": 32,
+      "increaseMagic": 23
+    },
+    {
+      "minDamage": 26,
+      "maxDamage": 28,
+      "requiredStrength": 74,
+      "requiredAgility": 33,
+      "increaseMagic": 26
+    },
+    {
+      "minDamage": 29,
+      "maxDamage": 31,
+      "requiredStrength": 77,
+      "requiredAgility": 34,
+      "increaseMagic": 30
+    },
+    {
+      "minDamage": 32,
+      "maxDamage": 34,
+      "requiredStrength": 81,
+      "requiredAgility": 35,
+      "increaseMagic": 33
+    },
+    {
+      "minDamage": 35,
+      "maxDamage": 37,
+      "requiredStrength": 84,
+      "requiredAgility": 36,
+      "increaseMagic": 37
+    },
+    {
+      "minDamage": 38,
+      "maxDamage": 40,
+      "requiredStrength": 88,
+      "requiredAgility": 37,
+      "increaseMagic": 40
+    },
+    {
+      "minDamage": 41,
+      "maxDamage": 43,
+      "requiredStrength": 92,
+      "requiredAgility": 38,
+      "increaseMagic": 44
+    },
+    {
+      "minDamage": 44,
+      "maxDamage": 46,
+      "requiredStrength": 95,
+      "requiredAgility": 38,
+      "increaseMagic": 47
+    },
+    {
+      "minDamage": 47,
+      "maxDamage": 49,
+      "requiredStrength": 99,
+      "requiredAgility": 39,
+      "increaseMagic": 51
+    },
+    {
+      "minDamage": 50,
+      "maxDamage": 52,
+      "requiredStrength": 102,
+      "requiredAgility": 40,
+      "increaseMagic": 54
+    },
+    {
+      "minDamage": 54,
+      "maxDamage": 56,
+      "requiredStrength": 106,
+      "requiredAgility": 41,
+      "increaseMagic": 58
+    },
+    {
+      "minDamage": 59,
+      "maxDamage": 61,
+      "requiredStrength": 110,
+      "requiredAgility": 42,
+      "increaseMagic": 63
+    },
+    {
+      "minDamage": 65,
+      "maxDamage": 67,
+      "requiredStrength": 113,
+      "requiredAgility": 43,
+      "increaseMagic": 68
+    },
+    {
+      "minDamage": 72,
+      "maxDamage": 74,
+      "requiredStrength": 117,
+      "requiredAgility": 44,
+      "increaseMagic": 73
+    },
+    {
+      "minDamage": 80,
+      "maxDamage": 82,
+      "requiredStrength": 120,
+      "requiredAgility": 45,
+      "increaseMagic": 79
+    },
+    {
+      "minDamage": 89,
+      "maxDamage": 91,
+      "requiredStrength": 124,
+      "requiredAgility": 46,
+      "increaseMagic": 86
+    }
+  ],
+  "excellentLevels": [
+    {
+      "minDamage": 41,
+      "maxDamage": 43,
+      "requiredStrength": 100,
+      "requiredAgility": 40,
+      "increaseMagic": 39
+    },
+    {
+      "minDamage": 44,
+      "maxDamage": 46,
+      "requiredStrength": 104,
+      "requiredAgility": 41,
+      "increaseMagic": 42
+    },
+    {
+      "minDamage": 47,
+      "maxDamage": 49,
+      "requiredStrength": 107,
+      "requiredAgility": 41,
+      "increaseMagic": 46
+    },
+    {
+      "minDamage": 50,
+      "maxDamage": 52,
+      "requiredStrength": 111,
+      "requiredAgility": 42,
+      "increaseMagic": 49
+    },
+    {
+      "minDamage": 53,
+      "maxDamage": 55,
+      "requiredStrength": 114,
+      "requiredAgility": 43,
+      "increaseMagic": 53
+    },
+    {
+      "minDamage": 56,
+      "maxDamage": 58,
+      "requiredStrength": 118,
+      "requiredAgility": 44,
+      "increaseMagic": 56
+    },
+    {
+      "minDamage": 59,
+      "maxDamage": 61,
+      "requiredStrength": 122,
+      "requiredAgility": 45,
+      "increaseMagic": 60
+    },
+    {
+      "minDamage": 62,
+      "maxDamage": 64,
+      "requiredStrength": 125,
+      "requiredAgility": 46,
+      "increaseMagic": 63
+    },
+    {
+      "minDamage": 65,
+      "maxDamage": 67,
+      "requiredStrength": 129,
+      "requiredAgility": 47,
+      "increaseMagic": 67
+    },
+    {
+      "minDamage": 68,
+      "maxDamage": 70,
+      "requiredStrength": 132,
+      "requiredAgility": 48,
+      "increaseMagic": 70
+    },
+    {
+      "minDamage": 72,
+      "maxDamage": 74,
+      "requiredStrength": 136,
+      "requiredAgility": 49,
+      "increaseMagic": 74
+    },
+    {
+      "minDamage": 77,
+      "maxDamage": 79,
+      "requiredStrength": 140,
+      "requiredAgility": 50,
+      "increaseMagic": 79
+    },
+    {
+      "minDamage": 83,
+      "maxDamage": 85,
+      "requiredStrength": 143,
+      "requiredAgility": 50,
+      "increaseMagic": 84
+    },
+    {
+      "minDamage": 90,
+      "maxDamage": 92,
+      "requiredStrength": 147,
+      "requiredAgility": 51,
+      "increaseMagic": 89
+    },
+    {
+      "minDamage": 98,
+      "maxDamage": 100,
+      "requiredStrength": 150,
+      "requiredAgility": 52,
+      "increaseMagic": 95
+    },
+    {
+      "minDamage": 107,
+      "maxDamage": 109,
+      "requiredStrength": 154,
+      "requiredAgility": 53,
+      "increaseMagic": 102
+    }
+  ]
+}
