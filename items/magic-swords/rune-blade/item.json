@@ -1,0 +1,274 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "RUNE_BLADE",
+  "name": "Rune Blade",
+  "alias": "(Death Broad)",
+  "img": "public/img/items/magic-swords/rune-blade.webp",
+  "durability": 65,
+  "requiredCharacterKeys": ["MAGIC_GLADIATOR"],
+  "type": "MAGIC_SWORD",
+  "attackSpeed": 35,
+  "twoHands": true,
+  "version": "0.97",
+  "skill": "POWER_SLASH_SKILL",
+  "normalLevels": [
+    {
+      "minDamage": 104,
+      "maxDamage": 130,
+      "requiredStrength": 425,
+      "requiredAgility": 206,
+      "requiredEnergy": 56,
+      "increaseMagic": 52
+    },
+    {
+      "minDamage": 107,
+      "maxDamage": 133,
+      "requiredStrength": 437,
+      "requiredAgility": 211,
+      "requiredEnergy": 57,
+      "increaseMagic": 55
+    },
+    {
+      "minDamage": 110,
+      "maxDamage": 136,
+      "requiredStrength": 449,
+      "requiredAgility": 217,
+      "requiredEnergy": 58,
+      "increaseMagic": 59
+    },
+    {
+      "minDamage": 113,
+      "maxDamage": 139,
+      "requiredStrength": 461,
+      "requiredAgility": 222,
+      "requiredEnergy": 59,
+      "increaseMagic": 62
+    },
+    {
+      "minDamage": 116,
+      "maxDamage": 142,
+      "requiredStrength": 473,
+      "requiredAgility": 228,
+      "requiredEnergy": 60,
+      "increaseMagic": 66
+    },
+    {
+      "minDamage": 119,
+      "maxDamage": 145,
+      "requiredStrength": 485,
+      "requiredAgility": 233,
+      "requiredEnergy": 61,
+      "increaseMagic": 69
+    },
+    {
+      "minDamage": 122,
+      "maxDamage": 148,
+      "requiredStrength": 497,
+      "requiredAgility": 239,
+      "requiredEnergy": 62,
+      "increaseMagic": 73
+    },
+    {
+      "minDamage": 125,
+      "maxDamage": 151,
+      "requiredStrength": 510,
+      "requiredAgility": 245,
+      "requiredEnergy": 63,
+      "increaseMagic": 76
+    },
+    {
+      "minDamage": 128,
+      "maxDamage": 154,
+      "requiredStrength": 522,
+      "requiredAgility": 250,
+      "requiredEnergy": 64,
+      "increaseMagic": 80
+    },
+    {
+      "minDamage": 131,
+      "maxDamage": 157,
+      "requiredStrength": 534,
+      "requiredAgility": 256,
+      "requiredEnergy": 65,
+      "increaseMagic": 83
+    },
+    {
+      "minDamage": 135,
+      "maxDamage": 161,
+      "requiredStrength": 546,
+      "requiredAgility": 261,
+      "requiredEnergy": 66,
+      "increaseMagic": 87
+    },
+    {
+      "minDamage": 140,
+      "maxDamage": 166,
+      "requiredStrength": 558,
+      "requiredAgility": 267,
+      "requiredEnergy": 67,
+      "increaseMagic": 92
+    },
+    {
+      "minDamage": 146,
+      "maxDamage": 172,
+      "requiredStrength": 570,
+      "requiredAgility": 272,
+      "requiredEnergy": 68,
+      "increaseMagic": 97
+    },
+    {
+      "minDamage": 153,
+      "maxDamage": 179,
+      "requiredStrength": 582,
+      "requiredAgility": 278,
+      "requiredEnergy": 70,
+      "increaseMagic": 102
+    },
+    {
+      "minDamage": 161,
+      "maxDamage": 187,
+      "requiredStrength": 595,
+      "requiredAgility": 284,
+      "requiredEnergy": 71,
+      "increaseMagic": 107
+    },
+    {
+      "minDamage": 170,
+      "maxDamage": 196,
+      "requiredStrength": 607,
+      "requiredAgility": 289,
+      "requiredEnergy": 72,
+      "increaseMagic": 112
+    }
+  ],
+  "excellentLevels": [
+    {
+      "minDamage": 135,
+      "maxDamage": 161,
+      "requiredStrength": 526,
+      "requiredAgility": 252,
+      "requiredEnergy": 65,
+      "increaseMagic": 67
+    },
+    {
+      "minDamage": 138,
+      "maxDamage": 164,
+      "requiredStrength": 538,
+      "requiredAgility": 258,
+      "requiredEnergy": 66,
+      "increaseMagic": 71
+    },
+    {
+      "minDamage": 141,
+      "maxDamage": 167,
+      "requiredStrength": 550,
+      "requiredAgility": 263,
+      "requiredEnergy": 67,
+      "increaseMagic": 75
+    },
+    {
+      "minDamage": 144,
+      "maxDamage": 170,
+      "requiredStrength": 562,
+      "requiredAgility": 269,
+      "requiredEnergy": 68,
+      "increaseMagic": 78
+    },
+    {
+      "minDamage": 147,
+      "maxDamage": 173,
+      "requiredStrength": 574,
+      "requiredAgility": 274,
+      "requiredEnergy": 69,
+      "increaseMagic": 82
+    },
+    {
+      "minDamage": 150,
+      "maxDamage": 176,
+      "requiredStrength": 587,
+      "requiredAgility": 280,
+      "requiredEnergy": 70,
+      "increaseMagic": 85
+    },
+    {
+      "minDamage": 153,
+      "maxDamage": 179,
+      "requiredStrength": 599,
+      "requiredAgility": 285,
+      "requiredEnergy": 71,
+      "increaseMagic": 89
+    },
+    {
+      "minDamage": 156,
+      "maxDamage": 182,
+      "requiredStrength": 611,
+      "requiredAgility": 291,
+      "requiredEnergy": 72,
+      "increaseMagic": 92
+    },
+    {
+      "minDamage": 159,
+      "maxDamage": 185,
+      "requiredStrength": 623,
+      "requiredAgility": 297,
+      "requiredEnergy": 73,
+      "increaseMagic": 96
+    },
+    {
+      "minDamage": 162,
+      "maxDamage": 188,
+      "requiredStrength": 635,
+      "requiredAgility": 302,
+      "requiredEnergy": 74,
+      "increaseMagic": 99
+    },
+    {
+      "minDamage": 166,
+      "maxDamage": 192,
+      "requiredStrength": 647,
+      "requiredAgility": 308,
+      "requiredEnergy": 75,
+      "increaseMagic": 103
+    },
+    {
+      "minDamage": 171,
+      "maxDamage": 197,
+      "requiredStrength": 659,
+      "requiredAgility": 313,
+      "requiredEnergy": 76,
+      "increaseMagic": 107
+    },
+    {
+      "minDamage": 177,
+      "maxDamage": 203,
+      "requiredStrength": 672,
+      "requiredAgility": 319,
+      "requiredEnergy": 77,
+      "increaseMagic": 112
+    },
+    {
+      "minDamage": 184,
+      "maxDamage": 210,
+      "requiredStrength": 684,
+      "requiredAgility": 325,
+      "requiredEnergy": 79,
+      "increaseMagic": 118
+    },
+    {
+      "minDamage": 192,
+      "maxDamage": 218,
+      "requiredStrength": 696,
+      "requiredAgility": 330,
+      "requiredEnergy": 0,
+      "increaseMagic": 123
+    },
+    {
+      "minDamage": 201,
+      "maxDamage": 227,
+      "requiredStrength": 708,
+      "requiredAgility": 336,
+      "requiredEnergy": 0,
+      "increaseMagic": 128
+    }
+  ]
+}

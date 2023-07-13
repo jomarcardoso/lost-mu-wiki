@@ -8,7 +8,7 @@
       "type": "integer"
     },
     "skill": {
-      "type": "integer"
+      "type": "string"
     },
     "twoHands": {
       "type": "boolean"
