@@ -1,0 +1,52 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "SMALL_AXE",
+  "name": "Small Axe",
+  "img": "public/img/items/axes/small-axe.webp",
+  "requiredCharacterKeys": [
+    "DARK_WIZARD",
+    "DARK_KNIGHT",
+    "FAIRY_ELF",
+    "MAGIC_GLADIATOR",
+    "DARK_LORD"
+  ],
+  "type": "WEAPON",
+  "durability": 18,
+  "attackSpeed": 20,
+  "normalLevels": [
+    { "minDamage": 1, "maxDamage": 6, "requiredStrength": 21 },
+    { "minDamage": 4, "maxDamage": 9, "requiredStrength": 26 },
+    { "minDamage": 7, "maxDamage": 12, "requiredStrength": 30 },
+    { "minDamage": 10, "maxDamage": 15, "requiredStrength": 35 },
+    { "minDamage": 13, "maxDamage": 18, "requiredStrength": 39 },
+    { "minDamage": 16, "maxDamage": 21, "requiredStrength": 44 },
+    { "minDamage": 19, "maxDamage": 24, "requiredStrength": 48 },
+    { "minDamage": 22, "maxDamage": 27, "requiredStrength": 53 },
+    { "minDamage": 25, "maxDamage": 30, "requiredStrength": 57 },
+    { "minDamage": 28, "maxDamage": 33, "requiredStrength": 62 },
+    { "minDamage": 32, "maxDamage": 37, "requiredStrength": 66 },
+    { "minDamage": 37, "maxDamage": 42, "requiredStrength": 71 },
+    { "minDamage": 43, "maxDamage": 48, "requiredStrength": 75 },
+    { "minDamage": 50, "maxDamage": 55, "requiredStrength": 80 },
+    { "minDamage": 58, "maxDamage": 63, "requiredStrength": 84 },
+    { "minDamage": 67, "maxDamage": 72, "requiredStrength": 89 }
+  ],
+  "excellentLevels": [
+    { "minDamage": 31, "maxDamage": 36, "requiredStrength": 59 },
+    { "minDamage": 34, "maxDamage": 39, "requiredStrength": 63 },
+    { "minDamage": 37, "maxDamage": 42, "requiredStrength": 68 },
+    { "minDamage": 40, "maxDamage": 45, "requiredStrength": 72 },
+    { "minDamage": 43, "maxDamage": 48, "requiredStrength": 77 },
+    { "minDamage": 46, "maxDamage": 51, "requiredStrength": 81 },
+    { "minDamage": 49, "maxDamage": 54, "requiredStrength": 86 },
+    { "minDamage": 52, "maxDamage": 57, "requiredStrength": 90 },
+    { "minDamage": 55, "maxDamage": 60, "requiredStrength": 95 },
+    { "minDamage": 58, "maxDamage": 63, "requiredStrength": 99 },
+    { "minDamage": 62, "maxDamage": 67, "requiredStrength": 104 },
+    { "minDamage": 67, "maxDamage": 72, "requiredStrength": 108 },
+    { "minDamage": 73, "maxDamage": 78, "requiredStrength": 113 },
+    { "minDamage": 80, "maxDamage": 85, "requiredStrength": 117 },
+    { "minDamage": 88, "maxDamage": 93, "requiredStrength": 122 },
+    { "minDamage": 97, "maxDamage": 102, "requiredStrength": 126 }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "$schema": "../../weapon.schema.json",
+  "key": "HAND_AXE",
+  "name": "Hand Axe",
+  "img": "public/img/items/axes/hand-axe.webp",
+  "requiredCharacterKeys": [
+    "DARK_WIZARD",
+    "DARK_KNIGHT",
+    "FAIRY_ELF",
+    "MAGIC_GLADIATOR",
+    "DARK_LORD"
+  ],
+  "type": "WEAPON",
+  "attackSpeed": 30,
+  "durability": 21,
+  "normalLevels": [
+    { "minDamage": 4, "maxDamage": 9, "requiredStrength": 28 },
+    { "minDamage": 7, "maxDamage": 12, "requiredStrength": 34 },
+    { "minDamage": 10, "maxDamage": 15, "requiredStrength": 41 },
+    { "minDamage": 13, "maxDamage": 18, "requiredStrength": 47 },
+    { "minDamage": 16, "maxDamage": 21, "requiredStrength": 53 },
+    { "minDamage": 19, "maxDamage": 24, "requiredStrength": 59 },
+    { "minDamage": 22, "maxDamage": 27, "requiredStrength": 66 },
+    { "minDamage": 25, "maxDamage": 30, "requiredStrength": 72 },
+    { "minDamage": 28, "maxDamage": 33, "requiredStrength": 78 },
+    { "minDamage": 31, "maxDamage": 36, "requiredStrength": 85 },
+    { "minDamage": 35, "maxDamage": 40, "requiredStrength": 91 },
+    { "minDamage": 40, "maxDamage": 45, "requiredStrength": 97 },
+    { "minDamage": 46, "maxDamage": 51, "requiredStrength": 104 },
+    { "minDamage": 53, "maxDamage": 58, "requiredStrength": 110 },
+    { "minDamage": 61, "maxDamage": 66, "requiredStrength": 116 },
+    { "minDamage": 70, "maxDamage": 75, "requiredStrength": 122 }
+  ],
+  "excellentLevels": [
+    { "minDamage": 34, "maxDamage": 39, "requiredStrength": 80 },
+    { "minDamage": 37, "maxDamage": 42, "requiredStrength": 87 },
+    { "minDamage": 40, "maxDamage": 45, "requiredStrength": 93 },
+    { "minDamage": 43, "maxDamage": 48, "requiredStrength": 99 },
+    { "minDamage": 46, "maxDamage": 51, "requiredStrength": 106 },
+    { "minDamage": 49, "maxDamage": 54, "requiredStrength": 112 },
+    { "minDamage": 52, "maxDamage": 57, "requiredStrength": 118 },
+    { "minDamage": 55, "maxDamage": 60, "requiredStrength": 125 },
+    { "minDamage": 58, "maxDamage": 63, "requiredStrength": 131 },
+    { "minDamage": 61, "maxDamage": 66, "requiredStrength": 137 },
+    { "minDamage": 65, "maxDamage": 70, "requiredStrength": 143 },
+    { "minDamage": 70, "maxDamage": 75, "requiredStrength": 150 },
+    { "minDamage": 76, "maxDamage": 81, "requiredStrength": 156 },
+    { "minDamage": 83, "maxDamage": 88, "requiredStrength": 162 },
+    { "minDamage": 91, "maxDamage": 96, "requiredStrength": 169 },
+    { "minDamage": 100, "maxDamage": 105, "requiredStrength": 175 }
+  ]
+}
